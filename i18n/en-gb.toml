@@ -1,0 +1,63 @@
+[footer]
+other = "Contents licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+
+[posts]
+other = "blog"
+
+[tags]
+one = "tag"
+other = "tags"
+
+[table_of_contents]
+other = "Contents"
+
+[updated_on]
+other = "Updated"
+
+[last_updated_on]
+other = "Last updated"
+
+# Below are defaults from the theme
+[series]
+one = "series"
+other = "series"
+
+[authors]
+one = "author"
+other = "authors"
+
+[page_not_found]
+other = "Page Not Found"
+
+[page_does_not_exist]
+other = "Sorry, this page does not exist."
+
+[head_back]
+other = "You can head back to the <a href=\"{{ . }}\">homepage</a>."
+
+[see_also]
+other = "See also in"
+
+[note]
+other = "note"
+
+[tip]
+other = "tip"
+
+[example]
+other = "example"
+
+[question]
+other = "question"
+
+[info]
+other = "info"
+
+[warning]
+other = "warning"
+
+[error]
+other = "error"
+
+[link_to_heading]
+other = "Link to heading"

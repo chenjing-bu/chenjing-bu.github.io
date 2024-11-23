@@ -1,0 +1,62 @@
+[footer]
+other = "本站内容采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可."
+
+[posts]
+other = "博客"
+
+[tags]
+other = "分类"
+
+[table_of_contents]
+other = "目录"
+
+[updated_on]
+other = "更新于"
+
+[last_updated_on]
+other = "更新于"
+
+# Below are defaults from the theme
+[series]
+one = "系列"
+other = "系列"
+
+[authors]
+one = "作者"
+other = "作者"
+
+[page_not_found]
+other = "找不到页面"
+
+[page_does_not_exist]
+other = "此页面不存在"
+
+[head_back]
+other = "返回 <a href=\"{{ . }}\">首页</a>."
+
+[see_also]
+other = "参见"
+
+[note]
+other = "注释"
+
+[tip]
+other = "提示"
+
+[example]
+other = "例子"
+
+[question]
+other = "问题"
+
+[info]
+other = "信息"
+
+[warning]
+other = "警告"
+
+[error]
+other = "错误"
+
+[link_to_heading]
+other = "本节链接"

@@ -1,0 +1,68 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-gb'
+defaultContentLanguage = 'en-gb'
+title = 'Chenjing Bu'
+paginate = 10
+
+# hugo-coder config, see
+# https://github.com/luizdepra/hugo-coder/blob/main/docs/configurations.md
+[params]
+author = 'Chenjing Bu'
+altAuthor = '<span lang="zh-cn">卜辰璟</span>'
+info = 'Doing mathematics at the University of Oxford.'
+description = 'Chenjing Bu’s homepage'
+katex = true
+dateFormat = '2 Jan 2006'
+customSCSS = ['scss/custom.scss']
+
+# use CSS for syntax highlighting
+[markup.highlight]
+noClasses = false
+
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 2
+
+[languages.en-gb]
+languageName = 'en' # Display name
+
+[[languages.en-gb.menu.main]]
+name = 'Research'
+weight = 2
+url = '/research/'
+
+[[languages.en-gb.menu.main]]
+name = 'Dev'
+weight = 3
+url = '/dev/'
+
+[[languages.en-gb.menu.main]]
+name = 'About'
+weight = 4
+url = '/about/'
+
+[languages.zh-cn]
+languageName = 'zh' # Display name
+title = '卜辰璟'
+
+[languages.zh-cn.params]
+author = '卜辰璟'
+altAuthor = 'Chenjing Bu'
+info = '在牛津大学从事数学研究.'
+description = '卜辰璟的个人主页'
+dateFormat = '2006 年 1 月 2 日'
+
+[[languages.zh-cn.menu.main]]
+name = '研究'
+weight = 2
+url = '/research/'
+
+[[languages.zh-cn.menu.main]]
+name = '开发'
+weight = 3
+url = '/dev/'
+
+[[languages.zh-cn.menu.main]]
+name = '关于'
+weight = 4
+url = '/about/'

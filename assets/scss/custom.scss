@@ -1,0 +1,307 @@
+@import "_variables";
+
+@font-face {
+  font-family: "Commit Mono";
+  src: url("/fonts/CommitMono.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-SemiBoldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+}
+
+// Fonts, colours, etc.
+.footer,
+.footer a {
+  color: #a0a8ac;
+  font-weight: normal;
+
+  body.colorscheme-dark & {
+    color: #808c92;
+  }
+}
+
+article {
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 500;
+  }
+
+  code {
+    font-size: 90%;
+    font-weight: inherit;
+    background-color: $alt-bg-color;
+  }
+
+  a code {
+    color: inherit;
+  }
+
+  pre {
+    font-size: 100%;
+    border: 0.1em solid #d0d8dc;
+
+    body.colorscheme-dark & {
+      border-color: #606f7b;
+    }
+  }
+
+  .heading-link {
+    color: var(--lt-color-gray-400);
+
+    body.colorscheme-dark & {
+      color: var(--lt-color-gray-600);
+    }
+  }
+}
+
+.navigation a:hover,
+.list a:hover {
+  text-decoration: none;
+}
+
+a#dark-mode-toggle {
+  cursor: pointer;
+}
+
+h1,
+h1 .title-link {
+  font-weight: 500;
+}
+
+html[lang="zh-cn"] {
+  .navigation a.navigation-title,
+  .navigation a.navigation-link {
+    font-weight: normal;
+  }
+}
+
+// Override KaTeX font
+span.katex {
+  font-size: 1em;
+  font-family: $font-family;
+}
+
+span.katex .mathnormal,
+span.katex .mathbf,
+span.katex .textrm {
+  font-family: $font-family;
+}
+
+span.katex .op-symbol.small-op,
+span.katex .delimsizing.size1 {
+  font-family: $font-family;
+  font-size: 110%;
+}
+
+// Home page
+.about {
+  margin-bottom: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1.home-title {
+  font-size: 2em;
+  padding: 0.4em 0.1em;
+  border-bottom: 0.4rem solid $link-color;
+}
+
+body.colorscheme-dark {
+  h1.home-title {
+    border-bottom-color: $link-color-dark;
+  }
+}
+
+.centered .about h2.home-subtitle {
+  font-size: 1.6em;
+  letter-spacing: 0.05em;
+  font-weight: normal;
+  margin: 0.25em 0 1.5em 0;
+}
+
+html[lang="zh-cn"] {
+  h1.home-title {
+    font-weight: normal;
+    padding: 0.5em 0.75em;
+    letter-spacing: 0.05em;
+  }
+
+  .centered .about h2.home-subtitle {
+    font-size: 1.5em;
+    font-weight: 500;
+    letter-spacing: 0;
+    margin: 0.15em 0 1.6em 0;
+  }
+}
+
+p.home-desc {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+// Posts
+.post-meta {
+  color: #a0a8ac;
+
+  body.colorscheme-dark & {
+    color: #808c92;
+  }
+}
+
+.content .post .post-meta .tags .tag {
+  background: none;
+  padding: 0;
+  border-radius: 0;
+
+  body.colorscheme-dark & {
+    background: none;
+  }
+
+  a,
+  body.colorscheme-dark & a {
+    color: inherit;
+    font-weight: normal;
+  }
+}
+
+.taxonomy {
+  ul {
+    list-style-type: disc;
+  }
+
+  li {
+    display: list-item;
+  }
+
+  .taxonomy-element {
+    display: inline;
+    background: none;
+    border-radius: 0;
+
+    a {
+      color: $link-color;
+    }
+
+    body.colorscheme-dark & {
+      background: none;
+      a {
+        color: $link-color-dark;
+      }
+    }
+  }
+}
+
+section.list ul li {
+  margin: 1.5rem 0;
+  align-items: baseline;
+
+  .title {
+    font-size: 1.1em;
+    font-family: $font-family;
+  }
+}
+
+// Tweak external link icon
+a.external-link {
+  margin-right: 0.1em;
+}
+
+// Disable hard line breaks
+p {
+  white-space: normal;
+}
+
+// lists
+article {
+  ul {
+    padding-left: 2em;
+  }
+
+  ul li {
+    // separation between bullet and text
+    padding-left: 0.25em;
+  }
+
+  ul li::marker {
+    color: var(--lt-color-gray-400);
+    margin-right: 0.5em;
+
+    body.colorscheme-dark & {
+      color: var(--lt-color-gray-600);
+    }
+  }
+}
+
+// TOC
+.toc {
+  margin: 2em 0;
+  padding-left: 1.25em;
+  border-left: 0.15em solid var(--lt-color-gray-400);
+
+  h2 {
+    font-size: 1.2em;
+    letter-spacing: 0.05em;
+    margin: 0;
+    margin-bottom: 0.75em;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 1.5em;
+
+    li {
+      padding: 0;
+    }
+  }
+
+  nav > ul {
+    padding-left: 0;
+  }
+
+  body.colorscheme-dark & {
+    border-left-color: var(--lt-color-gray-600);
+  }
+}

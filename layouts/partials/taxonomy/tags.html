@@ -1,0 +1,11 @@
+<div class="tags">
+  <span class="tags-title">
+    {{ i18n "tags" (len .) | strings.FirstUpper }}:
+  </span>
+  {{- range $index, $el := . -}}
+    {{ if ne $index 0 }},{{ end }}
+    <span class="tag">
+      <a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
+    </span>
+  {{- end -}}
+</div>

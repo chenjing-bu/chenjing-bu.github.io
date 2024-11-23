@@ -1,0 +1,216 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "Commit Mono";
+  src: url("/fonts/CommitMono.woff2") format("woff2"); }
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-SemiBoldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic; }
+
+.footer,
+.footer a {
+  color: #a0a8ac;
+  font-weight: normal; }
+  body.colorscheme-dark .footer, body.colorscheme-dark .footer a {
+    color: #808c92; }
+
+article h3,
+article h4,
+article h5,
+article h6 {
+  font-weight: 500; }
+
+article code {
+  font-size: 90%;
+  font-weight: inherit;
+  background-color: #eff1f5; }
+
+article a code {
+  color: inherit; }
+
+article pre {
+  font-size: 100%;
+  border: 0.1em solid #d0d8dc; }
+  body.colorscheme-dark article pre {
+    border-color: #606f7b; }
+
+article .heading-link {
+  color: var(--lt-color-gray-400); }
+  body.colorscheme-dark article .heading-link {
+    color: var(--lt-color-gray-600); }
+
+.navigation a:hover,
+.list a:hover {
+  text-decoration: none; }
+
+a#dark-mode-toggle {
+  cursor: pointer; }
+
+h1,
+h1 .title-link {
+  font-weight: 500; }
+
+html[lang="zh-cn"] .navigation a.navigation-title,
+html[lang="zh-cn"] .navigation a.navigation-link {
+  font-weight: normal; }
+
+span.katex {
+  font-size: 1em;
+  font-family: Inter, Segoe UI, Microsoft YaHei UI, Microsoft YaHei, 微软雅黑, Noto Sans CJK SC, sans-serif; }
+
+span.katex .mathnormal,
+span.katex .mathbf,
+span.katex .textrm {
+  font-family: Inter, Segoe UI, Microsoft YaHei UI, Microsoft YaHei, 微软雅黑, Noto Sans CJK SC, sans-serif; }
+
+span.katex .op-symbol.small-op,
+span.katex .delimsizing.size1 {
+  font-family: Inter, Segoe UI, Microsoft YaHei UI, Microsoft YaHei, 微软雅黑, Noto Sans CJK SC, sans-serif;
+  font-size: 110%; }
+
+.about {
+  margin-bottom: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; }
+
+h1.home-title {
+  font-size: 2em;
+  padding: 0.4em 0.1em;
+  border-bottom: 0.4rem solid #1078d0; }
+
+body.colorscheme-dark h1.home-title {
+  border-bottom-color: #42a5f5; }
+
+.centered .about h2.home-subtitle {
+  font-size: 1.6em;
+  letter-spacing: 0.05em;
+  font-weight: normal;
+  margin: 0.25em 0 1.5em 0; }
+
+html[lang="zh-cn"] h1.home-title {
+  font-weight: normal;
+  padding: 0.5em 0.75em;
+  letter-spacing: 0.05em; }
+
+html[lang="zh-cn"] .centered .about h2.home-subtitle {
+  font-size: 1.5em;
+  font-weight: 500;
+  letter-spacing: 0;
+  margin: 0.15em 0 1.6em 0; }
+
+p.home-desc {
+  font-size: 1.2em;
+  margin: 0; }
+
+.post-meta {
+  color: #a0a8ac; }
+  body.colorscheme-dark .post-meta {
+    color: #808c92; }
+
+.content .post .post-meta .tags .tag {
+  background: none;
+  padding: 0;
+  border-radius: 0; }
+  body.colorscheme-dark .content .post .post-meta .tags .tag {
+    background: none; }
+  .content .post .post-meta .tags .tag a, body.colorscheme-dark .content .post .post-meta .tags .tag a {
+    color: inherit;
+    font-weight: normal; }
+
+.taxonomy ul {
+  list-style-type: disc; }
+
+.taxonomy li {
+  display: list-item; }
+
+.taxonomy .taxonomy-element {
+  display: inline;
+  background: none;
+  border-radius: 0; }
+  .taxonomy .taxonomy-element a {
+    color: #1078d0; }
+  body.colorscheme-dark .taxonomy .taxonomy-element {
+    background: none; }
+    body.colorscheme-dark .taxonomy .taxonomy-element a {
+      color: #42a5f5; }
+
+section.list ul li {
+  margin: 1.5rem 0;
+  align-items: baseline; }
+  section.list ul li .title {
+    font-size: 1.1em;
+    font-family: Inter, Segoe UI, Microsoft YaHei UI, Microsoft YaHei, 微软雅黑, Noto Sans CJK SC, sans-serif; }
+
+a.external-link {
+  margin-right: 0.1em; }
+
+p {
+  white-space: normal; }
+
+article ul {
+  padding-left: 2em; }
+
+article ul li {
+  padding-left: 0.25em; }
+
+article ul li::marker {
+  color: var(--lt-color-gray-400);
+  margin-right: 0.5em; }
+  body.colorscheme-dark article ul li::marker {
+    color: var(--lt-color-gray-600); }
+
+.toc {
+  margin: 2em 0;
+  padding-left: 1.25em;
+  border-left: 0.15em solid var(--lt-color-gray-400); }
+  .toc h2 {
+    font-size: 1.2em;
+    letter-spacing: 0.05em;
+    margin: 0;
+    margin-bottom: 0.75em; }
+  .toc ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 1.5em; }
+    .toc ul li {
+      padding: 0; }
+  .toc nav > ul {
+    padding-left: 0; }
+  body.colorscheme-dark .toc {
+    border-left-color: var(--lt-color-gray-600); }
+
+/*# sourceMappingURL=custom.css.map */
