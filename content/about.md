@@ -12,6 +12,8 @@ working with [Dominic Joyce](https://people.maths.ox.ac.uk/joyce/).
 This site is built with [Hugo](https://gohugo.io/),
 based on the [Coder](https://github.com/luizdepra/hugo-coder) theme.
 The font used is [Inter](https://rsms.me/inter/).
+The source code of this site is available on
+[GitHub](https://github.com/chenjing-bu/chenjing-bu.github.io).
 
 ## Contact
 
