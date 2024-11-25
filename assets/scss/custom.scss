@@ -86,10 +86,10 @@ article {
   }
 
   .heading-link {
-    color: var(--lt-color-gray-400);
+    color: $light-text-color;
 
     body.colorscheme-dark & {
-      color: var(--lt-color-gray-600);
+      color: $light-text-color-dark;
     }
   }
 }
@@ -265,11 +265,11 @@ article {
   }
 
   ul li::marker {
-    color: var(--lt-color-gray-400);
+    color: $light-text-color;
     margin-right: 0.5em;
 
     body.colorscheme-dark & {
-      color: var(--lt-color-gray-600);
+      color: $light-text-color-dark;
     }
   }
 }
@@ -278,7 +278,7 @@ article {
 .toc {
   margin: 2em 0;
   padding-left: 1.25em;
-  border-left: 0.15em solid var(--lt-color-gray-400);
+  border-left: 0.15em solid $light-text-color;
 
   h2 {
     font-size: 1.2em;
@@ -302,6 +302,6 @@ article {
   }
 
   body.colorscheme-dark & {
-    border-left-color: var(--lt-color-gray-600);
+    border-left-color: $light-text-color-dark;
   }
 }
