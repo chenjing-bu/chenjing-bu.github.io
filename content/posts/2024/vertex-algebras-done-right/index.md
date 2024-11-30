@@ -237,7 +237,7 @@ Let us now see how the standard definition of a vertex algebra
 fits into this new picture.
 The standard definitions differ slightly between different sources,
 but they all look something like the following, taken from
-\[[Frekel, Ben-Zvi 2004](#references)\].
+\[[Frenkel, Ben-Zvi 2004](#references)\].
 
 {{<block title="Definition">}}
 A **vertex algebra** is:
@@ -333,7 +333,7 @@ it is also often easier to work with in practice.
 
 Just as an example, there is a property of vertex algebras,
 which is sometimes, somewhat misleadingly, called **skew-symmetry**
-(for example, in \[[Frekel, Ben-Zvi 2004](#references), Proposition 3.2.5\]),
+(for example, in \[[Frenkel, Ben-Zvi 2004](#references), Proposition 3.2.5\]),
 and refers to the identity
 
 $$
