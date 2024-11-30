@@ -27,6 +27,11 @@ endLevel = 2
 languageName = 'en' # Display name
 
 [[languages.en-gb.menu.main]]
+name = 'Blog'
+weight = 1
+url = '/posts/'
+
+[[languages.en-gb.menu.main]]
 name = 'Research'
 weight = 2
 url = '/research/'
@@ -66,3 +71,12 @@ url = '/dev/'
 name = '关于'
 weight = 4
 url = '/about/'
+
+# Giscus
+[params.giscus]
+repo = 'chenjing-bu/chenjing-bu.github.io'
+repoID = 'R_kgDONTvuiA'
+category = 'Articles'
+categoryID = 'DIC_kwDONTvuiM4Ckwym'
+reactionsEnabled = false
+inputPosition = 'top'

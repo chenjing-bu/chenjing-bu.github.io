@@ -31,6 +31,9 @@
           {{ with .GetTerms "authors" }}{{ partial "taxonomy/authors.html" . }}{{ end }}
           {{ with .GetTerms "categories" }}{{ partial "taxonomy/categories.html" . }}{{ end }}
           {{ with .GetTerms "tags" }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+          {{ if .Params.tagline }}
+            <div class="tagline">{{ .Params.tagline | markdownify }}</div>
+          {{ end }}
         </div>
       </header>
 

@@ -47,6 +47,26 @@
   font-style: italic;
 }
 
+@font-face {
+  font-family: "Inter KaTeX";
+  src: url("/fonts/Inter-Katex.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Lete_KaTeX_Size1";
+  src: url("/fonts/Lete_KaTeX_Size1.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Lete_KaTeX_Size2";
+  src: url("/fonts/Lete_KaTeX_Size2.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Lete_KaTeX_AMS";
+  src: url("/fonts/Lete_KaTeX_AMS.woff2") format("woff2");
+}
+
 // Fonts, colours, etc.
 .footer,
 .footer a {
@@ -66,14 +86,27 @@ article {
     font-weight: 500;
   }
 
+  strong {
+    font-weight: 600;
+    color: $alt-fg-color;
+
+    body.colorscheme-dark & {
+      color: $alt-fg-color-dark;
+    }
+  }
+
   code {
     font-size: 90%;
     font-weight: inherit;
     background-color: $alt-bg-color;
   }
 
-  a code {
-    color: inherit;
+  a code,
+  a strong {
+    &,
+    body.colorscheme-dark & {
+      color: inherit;
+    }
   }
 
   pre {
@@ -86,10 +119,38 @@ article {
   }
 
   .heading-link {
+    display: inline-block;
+    padding: 0 0.25em;
+    font-size: 100% !important;
     color: $light-text-color;
 
     body.colorscheme-dark & {
       color: $light-text-color-dark;
+    }
+  }
+
+  .dimmed {
+    color: #a0a8ac;
+
+    body.colorscheme-dark & {
+      color: #808c92;
+    }
+  }
+
+  .center {
+    margin: 0 auto;
+    text-align: center;
+
+    p {
+      text-align: center;
+    }
+  }
+
+  img {
+    border: 0.15em solid #d0d8dc;
+
+    body.colorscheme-dark & {
+      border-color: #606f7b;
     }
   }
 }
@@ -118,7 +179,21 @@ html[lang="zh-cn"] {
 // Override KaTeX font
 span.katex {
   font-size: 1em;
-  font-family: $font-family;
+  font-family:
+    Inter KaTeX,
+    $font-family;
+}
+
+span.katex-mathml {
+  // default behaviour is hidden but selectable,
+  // but not desirable as copy-pasting will have the text twice
+  display: none;
+}
+
+span.katex-display {
+  overflow-x: scroll;
+  overflow-y: clip;
+  padding: 0.1em 0;
 }
 
 span.katex .mathnormal,
@@ -129,8 +204,30 @@ span.katex .textrm {
 
 span.katex .op-symbol.small-op,
 span.katex .delimsizing.size1 {
-  font-family: $font-family;
-  font-size: 110%;
+  font-family: Lete_KaTeX_Size1;
+}
+
+span.katex .op-symbol.large-op,
+span.katex .delimsizing.size2 {
+  font-family: Lete_KaTeX_Size2;
+}
+
+span.katex .amsrm,
+span.katex .mathbb,
+span.katex .textbb {
+  font-family: Lete_KaTeX_AMS;
+}
+
+// Embolden lines
+span.katex .frac-line {
+  border-bottom-width: 0.1em !important;
+}
+
+span.katex svg {
+  path {
+    stroke: currentColor;
+    stroke-width: 20;
+  }
 }
 
 // Home page
@@ -233,13 +330,52 @@ p.home-desc {
   }
 }
 
-section.list ul li {
-  margin: 1.5rem 0;
-  align-items: baseline;
+section.list > ul {
+  list-style: disc;
+  padding-left: 1.5em;
+
+  li {
+    display: list-item !important;
+    padding-inline-start: 0.25em;
+    margin: 0;
+  }
+
+  li::marker {
+    color: $light-text-color;
+    margin-right: 0.5em;
+
+    body.colorscheme-dark & {
+      color: $light-text-color-dark;
+    }
+  }
+}
+
+section.list > ul li a.post-item {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 1.5rem 0;
+  font-weight: normal;
+  color: $fg-color;
+  line-height: 1.75;
+
+  &:hover .title {
+    color: $link-color;
+  }
+
+  span.date {
+    text-align: left;
+  }
 
   .title {
     font-size: 1.1em;
-    font-family: $font-family;
+    transition: color 0.2s;
+  }
+
+  .abstract {
+    color: #a0a8ac;
+    font-size: 1em;
+    text-align: justify;
   }
 }
 
@@ -261,7 +397,7 @@ article {
 
   ul li {
     // separation between bullet and text
-    padding-left: 0.25em;
+    padding-inline-start: 0.25em;
   }
 
   ul li::marker {
@@ -270,6 +406,14 @@ article {
 
     body.colorscheme-dark & {
       color: $light-text-color-dark;
+    }
+  }
+
+  ul ul {
+    padding-left: 1.5em;
+
+    li {
+      list-style-type: disclosure-closed;
     }
   }
 }
@@ -303,5 +447,122 @@ article {
 
   body.colorscheme-dark & {
     border-left-color: $light-text-color-dark;
+  }
+}
+
+// Section numbers
+section.post article {
+  .post-content > h2 {
+    counter-increment: section;
+
+    &::before {
+      content: counter(section);
+      font-variant-numeric: tabular-nums;
+      color: $light-text-color;
+      margin-right: 0.75em;
+
+      body.colorscheme-dark & {
+        color: $light-text-color-dark;
+      }
+    }
+  }
+
+  #TableOfContents > ul > li {
+    counter-increment: tocsection;
+
+    &::before {
+      content: counter(tocsection);
+      font-variant-numeric: tabular-nums;
+      font-weight: 600;
+      color: $light-text-color;
+      margin-right: 0.75em;
+
+      body.colorscheme-dark & {
+        color: $light-text-color-dark;
+      }
+    }
+  }
+}
+
+// Theorem blocks
+article .block {
+  background-color: $alt-bg-color;
+  border: 0.1em solid #d0d8dc;
+  border-radius: 1em;
+  padding: 0.75em 1.25em;
+  margin: 1em 0;
+
+  .block-title {
+    font-weight: 600;
+    color: $link-color;
+    margin: 0;
+  }
+
+  .block-content {
+    margin-top: 0.5em;
+  }
+
+  p:first-child,
+  ul:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child,
+  ul:last-child {
+    margin-bottom: 0;
+  }
+
+  ul li {
+    margin: 0.5em 0;
+  }
+
+  body.colorscheme-dark & {
+    background-color: $alt-bg-color-dark;
+    border-color: #60666c;
+    .block-title {
+      color: $link-color-dark;
+    }
+  }
+}
+
+// Spoilers
+article details {
+  background-color: $alt-bg-color;
+  border: 0.1em solid #d0d8dc;
+  border-radius: 1em;
+  padding: 0.75em 1.25em;
+  margin: 1em 0;
+
+  body.colorscheme-dark & {
+    background-color: $alt-bg-color-dark;
+    border-color: #60666c;
+  }
+
+  & > div {
+    margin-top: 0.5em;
+  }
+
+  p:first-child,
+  ul:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child,
+  ul:last-child {
+    margin-bottom: 0;
+  }
+
+  ul li {
+    margin: 0.5em 0;
+  }
+
+  summary {
+    font-weight: 500;
+    cursor: pointer;
+    color: $link-color;
+
+    body.colorscheme-dark & {
+      color: $link-color-dark;
+    }
   }
 }

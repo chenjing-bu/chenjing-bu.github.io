@@ -13,10 +13,13 @@
   {{ .Content }}
   <ul>
     {{ range .Paginator.Pages }}
-    <li>
-      <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
-      <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
-    </li>
+      <li>
+        <a class="post-item" href="{{ .Params.externalLink | default .RelPermalink }}">
+          <span class="title">{{ .Title }}</span>
+          <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+          <div class="abstract">{{ .Params.abstract | markdownify }}</div>
+        </a>
+      </li>
     {{ end }}
   </ul>
   {{ partial "pagination.html" . }}
