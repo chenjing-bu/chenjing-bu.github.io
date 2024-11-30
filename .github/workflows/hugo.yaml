@@ -1,6 +1,6 @@
 # Workflow file copied from
 # https://gohugo.io/hosting-and-deployment/hosting-on-github/
-name: Deploy to GitHub Pages
+name: Build and deploy
 
 on:
   # Runs on pushes targeting the default branch
@@ -55,7 +55,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          TZ: America/Los_Angeles
+          TZ: Europe/London
         run: |
           hugo \
             --gc \
