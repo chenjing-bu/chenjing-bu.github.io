@@ -70,11 +70,11 @@
 // Fonts, colours, etc.
 .footer,
 .footer a {
-  color: #a0a8ac;
+  color: $semi-light-text-color;
   font-weight: normal;
 
   body.colorscheme-dark & {
-    color: #808c92;
+    color: $semi-light-text-color-dark;
   }
 }
 
@@ -130,10 +130,10 @@ article {
   }
 
   .dimmed {
-    color: #a0a8ac;
+    color: $semi-light-text-color;
 
     body.colorscheme-dark & {
-      color: #808c92;
+      color: $semi-light-text-color-dark;
     }
   }
 
@@ -280,10 +280,10 @@ p.home-desc {
 
 // Posts
 .post-meta {
-  color: #a0a8ac;
+  color: $semi-light-text-color;
 
   body.colorscheme-dark & {
-    color: #808c92;
+    color: $semi-light-text-color-dark;
   }
 }
 
@@ -341,11 +341,11 @@ section.list > ul {
   }
 
   li::marker {
-    color: $light-text-color;
+    color: $semi-light-text-color;
     margin-right: 0.5em;
 
     body.colorscheme-dark & {
-      color: $light-text-color-dark;
+      color: $semi-light-text-color-dark;
     }
   }
 }
@@ -373,9 +373,13 @@ section.list > ul li a.post-item {
   }
 
   .abstract {
-    color: #a0a8ac;
+    color: $semi-light-text-color;
     font-size: 1em;
     text-align: justify;
+
+    body.colorscheme-dark & {
+      color: $semi-light-text-color-dark;
+    }
   }
 }
 
@@ -401,11 +405,11 @@ article {
   }
 
   ul li::marker {
-    color: $light-text-color;
+    color: $semi-light-text-color;
     margin-right: 0.5em;
 
     body.colorscheme-dark & {
-      color: $light-text-color-dark;
+      color: $semi-light-text-color-dark;
     }
   }
 
