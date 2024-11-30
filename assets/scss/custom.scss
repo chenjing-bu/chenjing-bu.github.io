@@ -129,7 +129,8 @@ article {
     }
   }
 
-  .dimmed {
+  .dimmed,
+  .dimmed strong {
     color: $semi-light-text-color;
 
     body.colorscheme-dark & {

@@ -27,19 +27,19 @@ and related aspects of derived algebraic geometry.
 
 ## Preprints
 
-- A motivic integral identity for $(-1)$-shifted symplectic stacks.  
+- A motivic integral identity for $(-1)$-shifted symplectic stacks.\
   Preprint v2, 45 pp. ([arXiv](https://arxiv.org/abs/2405.10092))
 
-- Enumerative invariants in self-dual categories. II. Homological invariants.  
+- Enumerative invariants in self-dual categories. II. Homological invariants.\
   Preprint v2, 122 pp. ([arXiv](https://arxiv.org/abs/2309.00056))
 
-- Enumerative invariants in self-dual categories. I. Motivic invariants.  
+- Enumerative invariants in self-dual categories. I. Motivic invariants.\
   Preprint v3, 147 pp. ([arXiv](https://arxiv.org/abs/2302.00038))
 
 ## Publications
 
-- Counting sheaves on curves.  
-  _Advances in Mathematics_ **434** (2023), 109334, 87 pp.
+- Counting sheaves on curves.\
+  2023. _Advances in Mathematics_ **434**, 109334, 87 pp.\
   ([doi](https://doi.org/10.1016/j.aim.2023.109334))
   ([zbMATH](https://zbmath.org/7765302))
   ([arXiv](https://arxiv.org/abs/2208.00927))

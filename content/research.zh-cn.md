@@ -29,19 +29,19 @@ date: 2024-11-23
 
 ## 预印论文
 
-- A motivic integral identity for $(-1)$-shifted symplectic stacks.  
+- A motivic integral identity for $(-1)$-shifted symplectic stacks.\
   预印本 v2, 45 页. ([arXiv](https://arxiv.org/abs/2405.10092))
 
-- Enumerative invariants in self-dual categories. II. Homological invariants.  
+- Enumerative invariants in self-dual categories. II. Homological invariants.\
   预印本 v2, 122 页. ([arXiv](https://arxiv.org/abs/2309.00056))
 
-- Enumerative invariants in self-dual categories. I. Motivic invariants.  
+- Enumerative invariants in self-dual categories. I. Motivic invariants.\
   预印本 v3, 147 页. ([arXiv](https://arxiv.org/abs/2302.00038))
 
 ## 出版论文
 
-- Counting sheaves on curves.  
-  _Advances in Mathematics_ **434** (2023), 109334, 87 页.
+- Counting sheaves on curves.\
+  2023. _Advances in Mathematics_ **434**, 109334, 87 页.
   ([doi](https://doi.org/10.1016/j.aim.2023.109334))
   ([zbMATH](https://zbmath.org/7765302))
   ([arXiv](https://arxiv.org/abs/2208.00927))
