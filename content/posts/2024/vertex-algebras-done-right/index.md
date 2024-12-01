@@ -1,7 +1,6 @@
 ---
 title: Vertex algebras done right
 date: 2024-12-01
-publishDate: 2024-11-30
 tags: [maths]
 abstract: |
   An easier way to think about vertex algebras.
@@ -173,7 +172,7 @@ should mean that vertex algebras are commutative algebra objects
 in a certain category.
 This is indeed almost true, except that the category
 does not have all compositions defined.
-This was explained in \[[Borcherds 1998](#references), Example 6.6\].
+This was explained in \[[Borcherds 1998](#references): Example 6.6\].
 {{</spoiler>}}
 
 ## Fields and translation
@@ -221,7 +220,6 @@ $$
 $$
 
 which is the true reason for the name.
-In fact, this is also equal to the product $1 (z) \cdot a (w)$.
 In particular, taking $w = 0$ gives
 
 $$
@@ -270,7 +268,7 @@ satisfying the following properties:
   $[T, Y (a, z)] = \partial_z Y (a, z)$, and $T (1) = 0$.
 
 - **Locality:** For any $a, b \in V$, there exists $n > 0$ such that
-  $(z - w)^n [Y (a, z), Y (b, w)] = 0$.
+  $(z - w)^n \cdot [Y (a, z), Y (b, w)] = 0$.
 
 {{< /block >}}
 
@@ -333,7 +331,7 @@ it is also often easier to work with in practice.
 
 Just as an example, there is a property of vertex algebras,
 which is sometimes, somewhat misleadingly, called **skew-symmetry**
-(for example, in \[[Frenkel, Ben-Zvi 2004](#references), Proposition 3.2.5\]),
+(for example, in \[[Frenkel, Ben-Zvi 2004](#references): Proposition 3.2.5\]),
 and refers to the identity
 
 $$
