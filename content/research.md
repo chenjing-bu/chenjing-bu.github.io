@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2024-11-23
+date: 2024-12-04
 ---
 
 This is my research home page.
@@ -19,10 +19,10 @@ and related aspects of derived algebraic geometry.
 
 - Self-dual Donaldson--Thomas theory. II. Wall-crossing formulae.
 
-- Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.  
+- Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
   With Daniel Halpern-Leistner, Andrés Ibáñez Núñez, and Tasuki Kinjo.
 
-- Intrinsic Donaldson--Thomas theory. II, III.  
+- Intrinsic Donaldson--Thomas theory. II, III.\
   With Andrés Ibáñez Núñez and Tasuki Kinjo.
 
 ## Preprints
@@ -38,24 +38,26 @@ and related aspects of derived algebraic geometry.
 
 ## Publications
 
-- Counting sheaves on curves.\
-  2023. _Advances in Mathematics_ **434**, 109334, 87 pp.\
+- C. **Bu** (2023). Counting sheaves on curves.\
+  _Advances in Mathematics_ 434, 109334, 87 pp.\
   ([doi](https://doi.org/10.1016/j.aim.2023.109334))
   ([zbMATH](https://zbmath.org/7765302))
   ([arXiv](https://arxiv.org/abs/2208.00927))
 
 ## Slides
 
+See also the full [list of talks](/research/talks).
+
 - {{< lang zh-cn >}}顶点代数与同调{{< /lang >}}
-  \[Vertex algebras and homology\].  
+  \[Vertex algebras and homology\].\
   22 July 2024, Tsinghua University.
   ([pdf](/pdf/20240722-tsinghua.pdf))
 
-- A theory of type B/C/D enumerative invariants.  
+- A theory of type B/C/D enumerative invariants.\
   20 November 2023, University of Oxford.
   ([pdf](/pdf/20231120-self-dual.pdf))
 
-- Counting sheaves on curves.  
+- Counting sheaves on curves.\
   7 November 2022, University of Oxford.
   ([pdf](/pdf/20221107-curves.pdf))
 
@@ -65,12 +67,12 @@ and related aspects of derived algebraic geometry.
 
 Notes written for reading groups that I organized as an undergraduate.
 
-- Homotopical algebra and homological algebra.  
+- Homotopical algebra and homological algebra.\
   Notes on $\infty$-categories, 89 pp., 2019.
   ([pdf](/pdf/HA.pdf))
 
 - {{< lang zh-cn >}}示性类{{< /lang >}}
-  \[Characteristic classes\].  
+  \[Characteristic classes\].\
   2019.
   ([web](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E7%A4%BA%E6%80%A7%E7%B1%BB))
 
@@ -78,14 +80,14 @@ Notes written for reading groups that I organized as an undergraduate.
 
 Little pieces of research done during my undergraduate years.
 
-- Homology of configuration spaces.  
+- Homology of configuration spaces.\
   22 pp., 2020.
   ([pdf](/pdf/conf.pdf))
 
-- Stable irrationality of varieties.  
+- Stable irrationality of varieties.\
   48 pp., 2020.
   ([pdf](/pdf/rationality.pdf))
 
-- A generalized handle theory.  
+- A generalized handle theory.\
   23 pp., 2019.
   ([pdf](/pdf/handle.pdf))

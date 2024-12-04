@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2024-11-23
+date: 2024-12-04
 ---
 
 这是我的学术主页.
@@ -21,10 +21,10 @@ date: 2024-11-23
 
 - Self-dual Donaldson--Thomas theory. II. Wall-crossing formulae.
 
-- Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.  
+- Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
   与 Daniel Halpern-Leistner, Andrés Ibáñez Núñez, Tasuki Kinjo 合作.
 
-- Intrinsic Donaldson--Thomas theory. II, III.  
+- Intrinsic Donaldson--Thomas theory. II, III.\
   与 Andrés Ibáñez Núñez, Tasuki Kinjo 合作.
 
 ## 预印论文
@@ -40,23 +40,25 @@ date: 2024-11-23
 
 ## 出版论文
 
-- Counting sheaves on curves.\
-  2023. _Advances in Mathematics_ **434**, 109334, 87 页.
+- C. **Bu** (2023). Counting sheaves on curves.\
+  _Advances in Mathematics_ 434, 109334, 87 pp.\
   ([doi](https://doi.org/10.1016/j.aim.2023.109334))
   ([zbMATH](https://zbmath.org/7765302))
   ([arXiv](https://arxiv.org/abs/2208.00927))
 
 ## 报告幻灯片
 
-- 顶点代数与同调.  
+另请参阅完整的[报告列表](/zh-cn/research/talks).
+
+- 顶点代数与同调.\
   2024 年 7 月 22 日, 清华大学.
   ([pdf](/pdf/20240722-tsinghua.pdf))
 
-- A theory of type B/C/D enumerative invariants.  
+- A theory of type B/C/D enumerative invariants.\
   2023 年 11 月 20 日, 牛津大学.
   ([pdf](/pdf/20231120-self-dual.pdf))
 
-- Counting sheaves on curves.  
+- Counting sheaves on curves.\
   2022 年 11 月 7 日, 牛津大学.
   ([pdf](/pdf/20221107-curves.pdf))
 
@@ -66,11 +68,11 @@ date: 2024-11-23
 
 我本科时组织的一些讨论班的讲义.
 
-- Homotopical algebra and homological algebra.  
+- Homotopical algebra and homological algebra.\
   2019 年, 89 页.
   ([pdf](/pdf/HA.pdf))
 
-- 示性类.  
+- 示性类.\
   2019 年.
   ([香蕉空间](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E7%A4%BA%E6%80%A7%E7%B1%BB))
 
@@ -78,14 +80,14 @@ date: 2024-11-23
 
 我本科时完成的一些微小研究.
 
-- Homology of configuration spaces.  
+- Homology of configuration spaces.\
   2020 年, 22 页.
   ([pdf](/pdf/conf.pdf))
 
-- Stable irrationality of varieties.  
+- Stable irrationality of varieties.\
   2020 年, 48 页.
   ([pdf](/pdf/rationality.pdf))
 
-- A generalized handle theory.  
+- A generalized handle theory.\
   2019 年, 23 页.
   ([pdf](/pdf/handle.pdf))
