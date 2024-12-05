@@ -185,7 +185,7 @@ abstract: |
 - **Gardner,** M. (1997).
   Pool-ball triangles and other problems.\
   {{<dimmed>}}
-  _Penrose tiles to trapdoor ciphers,_ revised ed., 119--136. MAA Press.
+  _Penrose tiles to trapdoor ciphers,_ revised edition, 119--136. Mathematical Association of America.
   {{</dimmed>}}
 
 问题 B:
@@ -193,5 +193,8 @@ abstract: |
 - **Bing,** R. H. (1966).
   Mapping a 3-sphere onto a homotopy 3-sphere.\
   {{<dimmed>}}
-  _Ann. Math. Stud._ 60, 89–99.
-  {{</dimmed>}}
+  _Topology seminar Wisconsin, 1965,_ 89–99.
+  Annals of Mathematics Studies 60.
+  {{</dimmed>}}\
+  ([doi](https://doi.org/10.1515/9781400882076-012))
+  ([zbMATH](https://zbmath.org/0152.22603))
