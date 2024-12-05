@@ -362,6 +362,10 @@ section.list > ul li a.post-item {
   color: $fg-color;
   line-height: 1.75;
 
+  @media only screen and (max-width: 768px) {
+    font-size: 1.6rem;
+  }
+
   body.colorscheme-dark & {
     color: $fg-color-dark;
   }
@@ -374,6 +378,10 @@ section.list > ul li a.post-item {
     text-align: left;
     width: inherit;
     margin-right: 1em;
+
+    @media only screen and (max-width: 768px) {
+      display: inline;
+    }
   }
 
   span.tags {
