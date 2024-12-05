@@ -157,7 +157,9 @@ article {
 }
 
 .navigation a:hover,
-.list a:hover {
+.navigation a:focus,
+.list a:hover,
+.list a:focus {
   text-decoration: none;
 }
 
@@ -370,6 +372,20 @@ section.list > ul li a.post-item {
 
   span.date {
     text-align: left;
+    width: inherit;
+    margin-right: 1em;
+  }
+
+  span.tags {
+    color: $semi-light-text-color;
+
+    span.tag {
+      margin-left: 0.5em;
+    }
+
+    body.colorscheme-dark & {
+      color: $semi-light-text-color-dark;
+    }
   }
 
   .title {

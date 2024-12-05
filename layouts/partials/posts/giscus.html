@@ -20,7 +20,7 @@
     s.setAttribute('data-emit-metadata', '{{ default "0" .Site.Params.giscus.emitMetadata }}');
     s.setAttribute('data-input-position', '{{ default "bottom" .Site.Params.giscus.inputPosition }}');
     s.setAttribute('data-theme', getTheme);
-    s.setAttribute('data-lang', '{{ default "en" .Site.Params.giscus.lang }}');
+    s.setAttribute('data-lang', '{{ i18n "giscus_lang" }}');
     s.setAttribute('data-loading', '{{ .Site.Params.giscus.loading }}');
     s.setAttribute('crossorigin', 'anonymous');
     s.setAttribute('async', '');

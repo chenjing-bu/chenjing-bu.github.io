@@ -16,6 +16,9 @@ other = "更新于"
 [last_updated_on]
 other = "更新于"
 
+[giscus_lang]
+other = "zh-CN"
+
 # Below are defaults from the theme
 [series]
 one = "系列"

@@ -58,6 +58,11 @@ description = '卜辰璟的个人主页'
 dateFormat = '2006 年 1 月 2 日'
 
 [[languages.zh-cn.menu.main]]
+name = '博客'
+weight = 1
+url = '/posts/'
+
+[[languages.zh-cn.menu.main]]
 name = '研究'
 weight = 2
 url = '/research/'
@@ -79,4 +84,5 @@ repoID = 'R_kgDONTvuiA'
 category = 'Articles'
 categoryID = 'DIC_kwDONTvuiM4Ckwym'
 reactionsEnabled = false
+strict = true
 inputPosition = 'top'

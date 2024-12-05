@@ -17,6 +17,9 @@ other = "Updated"
 [last_updated_on]
 other = "Last updated"
 
+[giscus_lang]
+other = "en"
+
 # Below are defaults from the theme
 [series]
 one = "series"

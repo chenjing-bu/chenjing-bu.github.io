@@ -1,7 +1,7 @@
 ---
 title: Vertex algebras done right
 date: 2024-12-01
-tags: [maths]
+tags: [Maths]
 abstract: |
   An easier way to think about vertex algebras.
 ---
