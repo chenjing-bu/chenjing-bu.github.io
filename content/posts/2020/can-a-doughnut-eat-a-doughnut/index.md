@@ -31,7 +31,7 @@ The small doughnut is now completely swallowed by the large doughnut.
 
 {{<centre width="30em">}}
 ![Figure 3](/posts/2020/can-a-doughnut-eat-a-doughnut/3.png)
-**Figure 3** Eating a doughnut
+**Figure 3** Swallow doughnut
 {{</centre>}}
 
 Now, if the two doughnuts are initially linked together, like this:
@@ -123,7 +123,7 @@ Finally, the poor little doughnut is entirely swallowed by the large doughnut.
 
 {{<centre width="30em">}}
 ![Figure 13](/posts/2020/can-a-doughnut-eat-a-doughnut/13.png)
-**Figure 13** Eating a doughnut
+**Figure 13** Swallow doughnut
 {{</centre>}}
 
 So, where is the error in the previous 'proof'? Notice that the two blue circles have never been separated throughout the entire process. We mistakenly assumed that the two circles would be separated after the doughnut was eaten, but this is not necessarily the case.

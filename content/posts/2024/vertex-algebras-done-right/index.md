@@ -202,8 +202,7 @@ We can also take higher derivatives of $a (z)$ similarly.
 
 This operator $T \colon V \to V$ is
 called the **translation operator**,
-which I find a bit misleading,
-and would rather call it something like the derivative operator.
+which I find a bit misleading.
 In fact, the actual translation operator is the operator
 
 $$
@@ -351,9 +350,6 @@ $$
 where we remember from the associativity axiom that
 when variables are combined, they get added together,
 which is what we did in the last step.
-Steps like this can be used to explain many other properties,
-and have been of great help in my own work,
-simplifying many calculations.
 
 ## References
 
