@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2024-12-04
+date: 2024-12-06
 ---
 
 这是我的学术主页.
@@ -24,7 +24,10 @@ date: 2024-12-04
 - Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
   与 Daniel Halpern-Leistner, Andrés Ibáñez Núñez, Tasuki Kinjo 合作.
 
-- Intrinsic Donaldson--Thomas theory. II, III.\
+- Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
+  与 Andrés Ibáñez Núñez, Tasuki Kinjo 合作.
+
+- Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 Andrés Ibáñez Núñez, Tasuki Kinjo 合作.
 
 ## 预印论文
@@ -41,7 +44,7 @@ date: 2024-12-04
 ## 出版论文
 
 - C. **Bu** (2023). Counting sheaves on curves.\
-  _Advances in Mathematics_ 434, 109334, 87 pp.\
+  _Advances in Mathematics_ 434, 109334, 87 页.\
   ([doi](https://doi.org/10.1016/j.aim.2023.109334))
   ([zbMATH](https://zbmath.org/7765302))
   ([arXiv](https://arxiv.org/abs/2208.00927))

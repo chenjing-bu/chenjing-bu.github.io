@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2024-12-04
+date: 2024-12-06
 ---
 
 This is my research home page.
@@ -22,7 +22,10 @@ and related aspects of derived algebraic geometry.
 - Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
   With Daniel Halpern-Leistner, Andrés Ibáñez Núñez, and Tasuki Kinjo.
 
-- Intrinsic Donaldson--Thomas theory. II, III.\
+- Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
+  With Andrés Ibáñez Núñez and Tasuki Kinjo.
+
+- Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   With Andrés Ibáñez Núñez and Tasuki Kinjo.
 
 ## Preprints
