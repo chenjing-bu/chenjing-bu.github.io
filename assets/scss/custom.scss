@@ -288,6 +288,13 @@ p.home-desc {
   body.colorscheme-dark & {
     color: $semi-light-text-color-dark;
   }
+
+  .posted-on {
+    @media only screen and (max-width: 768px) {
+      margin: 0;
+      display: block;
+    }
+  }
 }
 
 .content .post .post-meta .tags .tag {
