@@ -1,6 +1,7 @@
 ---
 title: Vertex algebras done right
 date: 2024-12-01
+lastmod: 2024-12-06
 tags: [Maths]
 abstract: |
   An easier way to think about vertex algebras.
@@ -331,7 +332,7 @@ In my experience, the new definition is not only helpful for intuition,
 it is also often easier to work with in practice.
 
 Just as an example, there is a property of vertex algebras,
-which is sometimes, somewhat misleadingly, called **skew-symmetry**
+which is sometimes called **skew-symmetry**
 (for example, in \[[Frenkel, Ben-Zvi 2004](#references): Proposition 3.2.5\]),
 and refers to the identity
 
