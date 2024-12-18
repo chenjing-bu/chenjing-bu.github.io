@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2024-12-06
+date: 2024-12-18
 ---
 
 This is my research home page.
@@ -27,6 +27,9 @@ and related aspects of derived algebraic geometry.
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   With Andrés Ibáñez Núñez and Tasuki Kinjo.
+
+- Cohomology of symmetric stacks.\
+  With Ben Davison, Andrés Ibáñez Núñez, Tasuki Kinjo, and Tudor Pădurariu.
 
 ## Preprints
 

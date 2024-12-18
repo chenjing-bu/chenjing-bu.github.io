@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2024-12-04
+lastmod: 2024-12-18
 ---
 
 < [Research](/research)
@@ -8,7 +8,7 @@ lastmod: 2024-12-04
 The following is a complete list of my research talks.
 
 - Vertex algebras and the homology of moduli stacks.\
-  December 2024, _Vertex operators in enumerative geometry_, Sanya.
+  26 December 2024, _Vertex operators in enumerative geometry_, Sanya.
 
 - {{< lang zh-cn >}}顶点代数与同调{{< /lang >}}
   \[Vertex algebras and homology\].\

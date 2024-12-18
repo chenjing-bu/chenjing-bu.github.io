@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2024-12-04
+lastmod: 2024-12-18
 ---
 
 < [研究](/zh-cn/research)
@@ -8,7 +8,7 @@ lastmod: 2024-12-04
 以下是我的学术报告列表.
 
 - Vertex algebras and the homology of moduli stacks.\
-  2024 年 12 月, _Vertex operators in enumerative geometry_, 三亚.
+  2024 年 12 月 26 日, _Vertex operators in enumerative geometry_, 三亚.
 
 - 顶点代数与同调.\
   2024 年 7 月 22 日, 清华大学. ([幻灯片](/pdf/20240722-tsinghua.pdf))

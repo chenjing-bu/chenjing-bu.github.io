@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2024-12-06
+date: 2024-12-18
 ---
 
 这是我的学术主页.
@@ -29,6 +29,9 @@ date: 2024-12-06
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 Andrés Ibáñez Núñez, Tasuki Kinjo 合作.
+
+- Cohomology of symmetric stacks.\
+  与 Ben Davison, Andrés Ibáñez Núñez, Tasuki Kinjo, Tudor Pădurariu 合作.
 
 ## 预印论文
 
