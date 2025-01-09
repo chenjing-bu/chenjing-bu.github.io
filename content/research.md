@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2024-12-18
+date: 2025-01-09
 ---
 
 This is my research home page.
@@ -15,10 +15,6 @@ and related aspects of derived algebraic geometry.
 
 ## Works in progress
 
-- Self-dual Donaldson--Thomas theory. I. Invariants.
-
-- Self-dual Donaldson--Thomas theory. II. Wall-crossing formulae.
-
 - Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
   With Daniel Halpern-Leistner, Andrés Ibáñez Núñez, and Tasuki Kinjo.
 
@@ -30,6 +26,10 @@ and related aspects of derived algebraic geometry.
 
 - Cohomology of symmetric stacks.\
   With Ben Davison, Andrés Ibáñez Núñez, Tasuki Kinjo, and Tudor Pădurariu.
+
+- Orthosymplectic Donaldson--Thomas invariants.
+
+- Orthosymplectic wall-crossing formulae.
 
 ## Preprints
 

@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2024-12-18
+date: 2025-01-09
 ---
 
 这是我的学术主页.
@@ -17,10 +17,6 @@ date: 2024-12-18
 
 ## 撰写中
 
-- Self-dual Donaldson--Thomas theory. I. Invariants.
-
-- Self-dual Donaldson--Thomas theory. II. Wall-crossing formulae.
-
 - Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
   与 Daniel Halpern-Leistner, Andrés Ibáñez Núñez, Tasuki Kinjo 合作.
 
@@ -32,6 +28,10 @@ date: 2024-12-18
 
 - Cohomology of symmetric stacks.\
   与 Ben Davison, Andrés Ibáñez Núñez, Tasuki Kinjo, Tudor Pădurariu 合作.
+
+- Orthosymplectic Donaldson--Thomas invariants.
+
+- Orthosymplectic wall-crossing formulae.
 
 ## 预印论文
 

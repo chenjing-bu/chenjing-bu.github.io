@@ -1,11 +1,14 @@
 ---
 title: List of research talks
-lastmod: 2024-12-18
+lastmod: 2025-01-09
 ---
 
 < [Research](/research)
 
 The following is a complete list of my research talks.
+
+- Intrinsic enumerative geometry.\
+  3 Febrary 2025, Imperial College London.
 
 - Vertex algebras and the homology of moduli stacks.\
   26 December 2024, _Vertex operators in enumerative geometry_, Sanya.

@@ -1,11 +1,14 @@
 ---
 title: 学术报告列表
-lastmod: 2024-12-18
+lastmod: 2025-01-09
 ---
 
 < [研究](/zh-cn/research)
 
 以下是我的学术报告列表.
+
+- Intrinsic enumerative geometry.\
+  2025 年 2 月 3 日, Imperial College London.
 
 - Vertex algebras and the homology of moduli stacks.\
   2024 年 12 月 26 日, _Vertex operators in enumerative geometry_, 三亚.
