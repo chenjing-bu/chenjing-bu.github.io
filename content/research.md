@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2025-01-09
+date: 2025-02-04
 ---
 
 This is my research home page.
@@ -33,16 +33,17 @@ and related aspects of derived algebraic geometry.
 
 ## Preprints
 
-- A motivic integral identity for $(-1)$-shifted symplectic stacks.\
-  Preprint v2, 45 pp. ([arXiv](https://arxiv.org/abs/2405.10092))
-
-- Enumerative invariants in self-dual categories. II. Homological invariants.\
+- C. **Bu**. Enumerative invariants in self-dual categories. II. Homological invariants.\
   Preprint v2, 122 pp. ([arXiv](https://arxiv.org/abs/2309.00056))
 
-- Enumerative invariants in self-dual categories. I. Motivic invariants.\
+- C. **Bu**. Enumerative invariants in self-dual categories. I. Motivic invariants.\
   Preprint v3, 147 pp. ([arXiv](https://arxiv.org/abs/2302.00038))
 
 ## Publications
+
+- C. **Bu** (2025). A motivic integral identity for $(-1)$-shifted symplectic stacks.\
+  _Moduli_, to appear.\
+  ([arXiv](https://arxiv.org/abs/2405.10092))
 
 - C. **Bu** (2023). Counting sheaves on curves.\
   _Advances in Mathematics_ 434, 109334, 87 pp.\

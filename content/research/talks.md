@@ -1,11 +1,14 @@
 ---
 title: List of research talks
-lastmod: 2025-01-23
+lastmod: 2025-02-04
 ---
 
 < [Research](/research)
 
 The following is a complete list of my research talks.
+
+- Intrinsic enumerative geometry.\
+  8 April 2025, Kavli IPMU.
 
 - Intrinsic enumerative geometry.\
   19 March 2025, University of Edinburgh.

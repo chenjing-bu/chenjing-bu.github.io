@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2025-01-09
+date: 2025-02-04
 ---
 
 这是我的学术主页.
@@ -35,16 +35,17 @@ date: 2025-01-09
 
 ## 预印论文
 
-- A motivic integral identity for $(-1)$-shifted symplectic stacks.\
-  预印本 v2, 45 页. ([arXiv](https://arxiv.org/abs/2405.10092))
-
-- Enumerative invariants in self-dual categories. II. Homological invariants.\
+- C. **Bu**. Enumerative invariants in self-dual categories. II. Homological invariants.\
   预印本 v2, 122 页. ([arXiv](https://arxiv.org/abs/2309.00056))
 
-- Enumerative invariants in self-dual categories. I. Motivic invariants.\
+- C. **Bu**. Enumerative invariants in self-dual categories. I. Motivic invariants.\
   预印本 v3, 147 页. ([arXiv](https://arxiv.org/abs/2302.00038))
 
 ## 出版论文
+
+- C. **Bu** (2025). A motivic integral identity for $(-1)$-shifted symplectic stacks.\
+  _Moduli_, 即将发表.\
+  ([arXiv](https://arxiv.org/abs/2405.10092))
 
 - C. **Bu** (2023). Counting sheaves on curves.\
   _Advances in Mathematics_ 434, 109334, 87 页.\

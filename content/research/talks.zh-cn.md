@@ -1,11 +1,14 @@
 ---
 title: 学术报告列表
-lastmod: 2025-01-23
+lastmod: 2025-02-04
 ---
 
 < [研究](/zh-cn/research)
 
 以下是我的学术报告列表.
+
+- Intrinsic enumerative geometry.\
+  2025 年 4 月 8 日, Kavli IPMU.
 
 - Intrinsic enumerative geometry.\
   2025 年 3 月 19 日, University of Edinburgh.
