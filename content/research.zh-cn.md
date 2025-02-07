@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2025-02-04
+date: 2025-02-07
 ---
 
 这是我的学术主页.
@@ -15,43 +15,48 @@ date: 2025-02-04
 
 {{< toc >}}
 
-## 撰写中
-
-- Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
-  与 Daniel Halpern-Leistner, Andrés Ibáñez Núñez, Tasuki Kinjo 合作.
-
-- Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
-  与 Andrés Ibáñez Núñez, Tasuki Kinjo 合作.
-
-- Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
-  与 Andrés Ibáñez Núñez, Tasuki Kinjo 合作.
-
-- Cohomology of symmetric stacks.\
-  与 Ben Davison, Andrés Ibáñez Núñez, Tasuki Kinjo, Tudor Pădurariu 合作.
-
-- Orthosymplectic Donaldson--Thomas invariants.
-
-- Orthosymplectic wall-crossing formulae.
-
-## 预印论文
-
-- C. **Bu**. Enumerative invariants in self-dual categories. II. Homological invariants.\
-  预印本 v2, 122 页. ([arXiv](https://arxiv.org/abs/2309.00056))
-
-- C. **Bu**. Enumerative invariants in self-dual categories. I. Motivic invariants.\
-  预印本 v3, 147 页. ([arXiv](https://arxiv.org/abs/2302.00038))
-
 ## 出版论文
 
 - C. **Bu** (2025). A motivic integral identity for $(-1)$-shifted symplectic stacks.\
-  _Moduli_, 即将发表.\
+  {{<dimmed>}}
+  _Moduli_, 即将出版.
+  {{</dimmed>}}\
   ([arXiv](https://arxiv.org/abs/2405.10092))
 
 - C. **Bu** (2023). Counting sheaves on curves.\
-  _Advances in Mathematics_ 434, 109334, 87 页.\
+  {{<dimmed>}}
+  _Advances in Mathematics_ 434, 109334, 87 页.
+  {{</dimmed>}}\
   ([doi](https://doi.org/10.1016/j.aim.2023.109334))
   ([zbMATH](https://zbmath.org/7765302))
   ([arXiv](https://arxiv.org/abs/2208.00927))
+
+## 预印论文
+
+- C. **Bu**, B. **Davison**, A. **Ibáñez Núñez**, T. **Kinjo**, T. **Pădurariu**. Cohomology of symmetric stacks.\
+  119 页, 2025.
+  ([arXiv](https://arxiv.org/abs/2502.04253))
+
+- C. **Bu**. Enumerative invariants in self-dual categories. II. Homological invariants.\
+  122 页, 2023.
+  ([arXiv](https://arxiv.org/abs/2309.00056))
+
+- C. **Bu**. Enumerative invariants in self-dual categories. I. Motivic invariants.\
+  147 页, 2023--2024.
+  ([arXiv](https://arxiv.org/abs/2302.00038))
+
+## 撰写中
+
+- Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
+  与 D. **Halpern-Leistner**, A. **Ibáñez Núñez**, T. **Kinjo** 合作.
+
+- Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
+  与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
+
+- Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
+  与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
+
+- Orthosymplectic Donaldson--Thomas invariants.
 
 ## 报告幻灯片
 
