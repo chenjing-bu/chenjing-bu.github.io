@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2025-02-07
+date: 2025-02-21
 ---
 
 这是我的学术主页.
@@ -33,22 +33,25 @@ date: 2025-02-07
 
 ## 预印论文
 
-- C. **Bu**, B. **Davison**, A. **Ibáñez Núñez**, T. **Kinjo**, T. **Pădurariu**. Cohomology of symmetric stacks.\
+- Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
+  与 D. **Halpern-Leistner**, A. **Ibáñez Núñez**, T. **Kinjo** 合作.\
+  64 页, 2025.
+  ([arXiv](https://arxiv.org/abs/2502.13892))
+
+- Cohomology of symmetric stacks.\
+  与 B. **Davison**, A. **Ibáñez Núñez**, T. **Kinjo**, T. **Pădurariu** 合作.\
   119 页, 2025.
   ([arXiv](https://arxiv.org/abs/2502.04253))
 
-- C. **Bu**. Enumerative invariants in self-dual categories. II. Homological invariants.\
+- Enumerative invariants in self-dual categories. II. Homological invariants.\
   122 页, 2023.
   ([arXiv](https://arxiv.org/abs/2309.00056))
 
-- C. **Bu**. Enumerative invariants in self-dual categories. I. Motivic invariants.\
+- Enumerative invariants in self-dual categories. I. Motivic invariants.\
   147 页, 2023--2024.
   ([arXiv](https://arxiv.org/abs/2302.00038))
 
 ## 撰写中
-
-- Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
-  与 D. **Halpern-Leistner**, A. **Ibáñez Núñez**, T. **Kinjo** 合作.
 
 - Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
@@ -56,7 +59,7 @@ date: 2025-02-07
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
 
-- Orthosymplectic Donaldson--Thomas invariants.
+- Orthosymplectic Donaldson--Thomas theory.
 
 ## 报告幻灯片
 

@@ -1,11 +1,17 @@
 ---
 title: List of research talks
-lastmod: 2025-02-04
+lastmod: 2025-02-21
 ---
 
 < [Research](/research)
 
 The following is a complete list of my research talks.
+
+- TBD.\
+  June 2025, _Moduli spaces, virtual invariants and shifted symplectic structures_, KIAS, Seoul.
+
+- TBD.\
+  May 2025, Kyoto University.
 
 - Intrinsic enumerative geometry.\
   8 April 2025, Kavli IPMU.
@@ -27,7 +33,7 @@ The following is a complete list of my research talks.
   21 February 2024, University of Warwick.
 
 - Type B/C/D enumerative invariants and vertex algebra modules.\
-  29 November 2023, Academia Sinica.
+  29 November 2023, online, Academia Sinica.
 
 - A theory of type B/C/D enumerative invariants.\
   20 November 2023, University of Oxford.

@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2025-02-07
+date: 2025-02-21
 ---
 
 This is my research home page.
@@ -31,22 +31,25 @@ and related aspects of derived algebraic geometry.
 
 ## Preprints
 
-- C. **Bu**, B. **Davison**, A. **Ibáñez Núñez**, T. **Kinjo**, T. **Pădurariu**. Cohomology of symmetric stacks.\
+- Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
+  With D. **Halpern-Leistner**, A. **Ibáñez Núñez**, T. **Kinjo**.\
+  64 pp., 2025.
+  ([arXiv](https://arxiv.org/abs/2502.13892))
+
+- Cohomology of symmetric stacks.\
+  With B. **Davison**, A. **Ibáñez Núñez**, T. **Kinjo**, T. **Pădurariu**.\
   119 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2502.04253))
 
-- C. **Bu**. Enumerative invariants in self-dual categories. II. Homological invariants.\
+- Enumerative invariants in self-dual categories. II. Homological invariants.\
   122 pp., 2023.
   ([arXiv](https://arxiv.org/abs/2309.00056))
 
-- C. **Bu**. Enumerative invariants in self-dual categories. I. Motivic invariants.\
+- Enumerative invariants in self-dual categories. I. Motivic invariants.\
   147 pp., 2023--2024.
   ([arXiv](https://arxiv.org/abs/2302.00038))
 
 ## Works in progress
-
-- Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
-  With D. **Halpern-Leistner**, A. **Ibáñez Núñez**, and T. **Kinjo**.
 
 - Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
   With A. **Ibáñez Núñez** and T. **Kinjo**.
@@ -54,7 +57,7 @@ and related aspects of derived algebraic geometry.
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   With A. **Ibáñez Núñez** and T. **Kinjo**.
 
-- Orthosymplectic Donaldson--Thomas invariants.
+- Orthosymplectic Donaldson--Thomas theory.
 
 ## Slides
 
