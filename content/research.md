@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2025-02-21
+date: 2025-03-03
 ---
 
 This is my research home page.
@@ -31,6 +31,11 @@ and related aspects of derived algebraic geometry.
 
 ## Preprints
 
+- Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
+  With A. **Ibáñez Núñez** and T. **Kinjo**.\
+  61 pp., 2025.
+  ([arXiv](https://arxiv.org/abs/2502.20515))
+
 - Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
   With D. **Halpern-Leistner**, A. **Ibáñez Núñez**, T. **Kinjo**.\
   64 pp., 2025.
@@ -50,9 +55,6 @@ and related aspects of derived algebraic geometry.
   ([arXiv](https://arxiv.org/abs/2302.00038))
 
 ## Works in progress
-
-- Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
-  With A. **Ibáñez Núñez** and T. **Kinjo**.
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   With A. **Ibáñez Núñez** and T. **Kinjo**.

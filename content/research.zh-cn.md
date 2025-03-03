@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2025-02-21
+date: 2025-03-03
 ---
 
 这是我的学术主页.
@@ -33,6 +33,11 @@ date: 2025-02-21
 
 ## 预印论文
 
+- Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
+  与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.\
+  61 页, 2025.
+  ([arXiv](https://arxiv.org/abs/2502.20515))
+
 - Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
   与 D. **Halpern-Leistner**, A. **Ibáñez Núñez**, T. **Kinjo** 合作.\
   64 页, 2025.
@@ -52,9 +57,6 @@ date: 2025-02-21
   ([arXiv](https://arxiv.org/abs/2302.00038))
 
 ## 撰写中
-
-- Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
-  与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
