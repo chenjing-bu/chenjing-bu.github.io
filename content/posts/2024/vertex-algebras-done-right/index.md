@@ -1,7 +1,7 @@
 ---
 title: Vertex algebras done right
 date: 2024-12-01
-lastmod: 2024-12-06
+lastmod: 2025-03-18
 tags: [Maths]
 abstract: |
   An easier way to think about vertex algebras.
@@ -117,6 +117,9 @@ A **vertex algebra** is:
 
 satisfying the following properties:
 
+- **Unit:** We always have $a (0) = a$,
+  that is, $a (z) = a + O (z)$.
+
 - **Commutativity:** The product $a_1 (z_1) \cdots a_n (z_n)$
   does not depend on the order of the factors.
   For example, $a (z) \cdot b (w) = b (w) \cdot a (z)$.
@@ -187,7 +190,6 @@ First, since the $1$-ary multiplication is defined,
 it means that every element $a \in V$ automatically comes with
 a power series $a (z) \in V [[z]]$,
 which some people would call the **field** associated to $a$ (while others wouldn't!).
-The value at $z = 0$ is the element itself, $a (0) = a$.
 
 It then makes sense to differentiate the field $a (z)$ with respect to $z$,
 which defines an element $\partial_z a (z) \in V [[z]]$.
@@ -263,8 +265,8 @@ A **vertex algebra** is:
 
 satisfying the following properties:
 
-- **Unitality:** $Y (1, z) = \operatorname{id}_V$,
-  and $Y (a, z) \\, 1 \in a + z V [[z]]$.
+- **Unit:** $Y (1, z) = \operatorname{id}_V$,
+  and $Y (a, z) \\, 1 = a + O (z)$.
 
 - **Translation:** We have the commutator
   $[T, Y (a, z)] = \partial_z Y (a, z)$, and $T (1) = 0$.
@@ -296,7 +298,7 @@ gives the latter product.
 The translation axiom here is just another way to say that
 $T$ acts as the derivative operator on fields.
 
-Finally, the locality axiom can seem very strange.
+Finally, the locality axiom can seem strange at first sight.
 In fact, in our new language, it is just the statement that
 $a (z) \cdot b (w) = b (w) \cdot a (z)$,
 but it is stated in a more convoluted way,
@@ -328,10 +330,10 @@ order of the pole at $z = w$ of the original expression.
 
 ## An example
 
-In my experience, the new definition is not only helpful for intuition,
-it is also often easier to work with in practice.
+Here is an example of how the new perspective
+might help understanding properties of vertex algebras.
 
-Just as an example, there is a property of vertex algebras,
+There is a property of vertex algebras,
 which is sometimes called **skew-symmetry**
 (for example, in \[[Frenkel, Ben-Zvi 2004](#references): Proposition 3.2.5\]),
 and refers to the identity
