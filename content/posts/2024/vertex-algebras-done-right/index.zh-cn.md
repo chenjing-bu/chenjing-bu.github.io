@@ -1,7 +1,7 @@
 ---
 title: 顶点代数直观指南
 date: 2024-12-01
-lastmod: 2024-03-18
+lastmod: 2025-03-18
 tags: [数学]
 tagline: 翻译自英文原文
 abstract: |
