@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2025-02-21
+lastmod: 2025-03-27
 ---
 
 < [研究](/zh-cn/research)
@@ -12,6 +12,9 @@ lastmod: 2025-02-21
 
 - 待定.\
   2025 年 5 月, Kyoto University.
+
+- Orthosymplectic Donaldson--Thomas theory.\
+  2025 年 4 月 24 日, 线上, Kansas University.
 
 - Intrinsic enumerative geometry.\
   2025 年 4 月 8 日, Kavli IPMU.

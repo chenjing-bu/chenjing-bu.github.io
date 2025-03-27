@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2025-02-21
+lastmod: 2025-03-27
 ---
 
 < [Research](/research)
@@ -12,6 +12,9 @@ The following is a complete list of my research talks.
 
 - TBD.\
   May 2025, Kyoto University.
+
+- Orthosymplectic Donaldson--Thomas theory.\
+  24 April 2025, online, Kansas University.
 
 - Intrinsic enumerative geometry.\
   8 April 2025, Kavli IPMU.
