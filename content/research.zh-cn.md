@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2025-03-03
+date: 2025-03-27
 ---
 
 这是我的学术主页.
@@ -33,6 +33,10 @@ date: 2025-03-03
 
 ## 预印论文
 
+- Orthosymplectic Donaldson--Thomas theory.\
+  55 页, 2025.
+  ([arXiv](https://arxiv.org/abs/2503.20667))
+
 - Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.\
   61 页, 2025.
@@ -53,7 +57,7 @@ date: 2025-03-03
   ([arXiv](https://arxiv.org/abs/2309.00056))
 
 - Enumerative invariants in self-dual categories. I. Motivic invariants.\
-  147 页, 2023--2024.
+  147 页, 2023. 已由新文替代.
   ([arXiv](https://arxiv.org/abs/2302.00038))
 
 ## 撰写中
@@ -61,7 +65,8 @@ date: 2025-03-03
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
 
-- Orthosymplectic Donaldson--Thomas theory.
+- Orthosymplectic enumerative geometry.\
+  博士论文.
 
 ## 报告幻灯片
 
