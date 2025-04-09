@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2025-03-27
+date: 2025-04-09
 ---
 
 这是我的学术主页.
@@ -12,6 +12,8 @@ date: 2025-03-27
 等计数不变量,
 以及[导出代数几何](https://www.bananaspace.org/wiki/%E5%AF%BC%E5%87%BA%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
 的相关方面.
+
+另见我的[学术报告列表](/zh-cn/research/talks).
 
 {{< toc >}}
 
@@ -68,31 +70,16 @@ date: 2025-03-27
 - Orthosymplectic enumerative geometry.\
   博士论文.
 
-## 报告幻灯片
-
-另请参阅完整的[报告列表](/zh-cn/research/talks).
-
-- 顶点代数与同调.\
-  2024 年 7 月 22 日, 清华大学.
-  ([pdf](/pdf/20240722-tsinghua.pdf))
-
-- A theory of type B/C/D enumerative invariants.\
-  2023 年 11 月 20 日, 牛津大学.
-  ([pdf](/pdf/20231120-self-dual.pdf))
-
-- Counting sheaves on curves.\
-  2022 年 11 月 7 日, 牛津大学.
-  ([pdf](/pdf/20221107-curves.pdf))
-
 ## 其他作品
 
 ### 讲义
 
 我本科时组织的一些讨论班的讲义.
 
-- Homotopical algebra and homological algebra.\
-  2019 年, 89 页.
-  ([pdf](/pdf/HA.pdf))
+- 同伦代数与同调代数.\
+  2019 年.
+  ([香蕉空间](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%90%8C%E4%BC%A6%E4%BB%A3%E6%95%B0%E4%B8%8E%E5%90%8C%E8%B0%83%E4%BB%A3%E6%95%B0))
+  ([pdf](/pdf/HA.pdf), 英文)
 
 - 示性类.\
   2019 年.

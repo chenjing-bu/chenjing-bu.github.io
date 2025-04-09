@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2025-03-27
+date: 2025-04-09
 ---
 
 This is my research home page.
@@ -10,6 +10,8 @@ with primary interests in the theory of algebraic stacks,
 enumerative invariants such as
 Donaldson--Thomas invariants,
 and related aspects of derived algebraic geometry.
+
+See [here](/research/talks) for a list of my research talks.
 
 {{< toc >}}
 
@@ -67,23 +69,6 @@ and related aspects of derived algebraic geometry.
 - Orthosymplectic enumerative geometry.\
   _PhD thesis_.
 
-## Slides
-
-See also the full [list of talks](/research/talks).
-
-- {{< lang zh-cn >}}顶点代数与同调{{< /lang >}}
-  \[Vertex algebras and homology\].\
-  22 July 2024, Tsinghua University.
-  ([pdf](/pdf/20240722-tsinghua.pdf))
-
-- A theory of type B/C/D enumerative invariants.\
-  20 November 2023, University of Oxford.
-  ([pdf](/pdf/20231120-self-dual.pdf))
-
-- Counting sheaves on curves.\
-  7 November 2022, University of Oxford.
-  ([pdf](/pdf/20221107-curves.pdf))
-
 ## Other writings
 
 ### Introductory notes
@@ -93,6 +78,7 @@ Notes written for reading groups that I organized as an undergraduate.
 - Homotopical algebra and homological algebra.\
   Notes on $\infty$-categories, 89 pp., 2019.
   ([pdf](/pdf/HA.pdf))
+  ([web](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%90%8C%E4%BC%A6%E4%BB%A3%E6%95%B0%E4%B8%8E%E5%90%8C%E8%B0%83%E4%BB%A3%E6%95%B0), in Chinese)
 
 - {{< lang zh-cn >}}示性类{{< /lang >}}
   \[Characteristic classes\].\

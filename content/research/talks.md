@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2025-03-27
+lastmod: 2025-04-09
 ---
 
 < [Research](/research)
@@ -10,7 +10,10 @@ The following is a complete list of my research talks.
 - TBD.\
   June 2025, _Moduli spaces, virtual invariants and shifted symplectic structures_, KIAS, Seoul.
 
-- TBD.\
+- Orientifold Donaldson--Thomas theory.\
+  20 May 2025, Imperial College London.
+
+- Intrinsic enumerative geometry.\
   May 2025, Kyoto University.
 
 - Orthosymplectic Donaldson--Thomas theory.\
