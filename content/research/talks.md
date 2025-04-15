@@ -57,6 +57,8 @@ The following is a complete list of my research talks.
 - Counting sheaves on curves.\
   20 April 2023, [_Hall algebras and vertex algebras in enumerative geometry_](https://www.maths.ed.ac.uk/~lhenneca/Skye2023.html), Skye.
 
+## 2022
+
 - Counting sheaves on curves.\
   7 November 2022, University of Oxford.
   ([slides](/pdf/20221107-curves.pdf))
