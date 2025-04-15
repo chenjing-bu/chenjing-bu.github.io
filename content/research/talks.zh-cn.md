@@ -1,14 +1,16 @@
 ---
 title: 学术报告列表
-lastmod: 2025-04-09
+lastmod: 2025-04-15
 ---
 
 < [研究](/zh-cn/research)
 
 以下是我的学术报告列表.
 
+## 2025
+
 - 待定.\
-  2025 年 6 月, _Moduli spaces, virtual invariants and shifted symplectic structures_, KIAS, 首尔.
+  2025 年 6 月, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), KIAS, 首尔.
 
 - Orientifold Donaldson--Thomas theory.\
   2025 年 5 月 20 日, Imperial College London.
@@ -28,14 +30,18 @@ lastmod: 2025-04-09
 - Intrinsic enumerative geometry.\
   2025 年 2 月 3 日, Imperial College London.
 
+## 2024
+
 - Vertex algebras and the homology of moduli stacks.\
-  2024 年 12 月 26 日, _Vertex operators in enumerative geometry_, 三亚.
+  2024 年 12 月 26 日, [_Vertex operators in enumerative geometry_](https://www.tsimf.cn/meeting/detail?id=389), 三亚.
 
 - 顶点代数与同调.\
   2024 年 7 月 22 日, 清华大学. ([幻灯片](/pdf/20240722-tsinghua.pdf))
 
 - Donaldson--Thomas invariants in type B/C/D.\
   2024 年 2 月 21 日, University of Warwick.
+
+## 2023
 
 - Type B/C/D enumerative invariants and vertex algebra modules.\
   2023 年 11 月 29 日, 线上, Academia Sinica.
@@ -47,7 +53,7 @@ lastmod: 2025-04-09
   2023 年 11 月 16 日, University of Edinburgh.
 
 - Counting sheaves on curves.\
-  2023 年 4 月 20 日, _Workshop on Hall algebras and vertex algebras in enumerative geometry_, Skye.
+  2023 年 4 月 20 日, [_Hall algebras and vertex algebras in enumerative geometry_](https://www.maths.ed.ac.uk/~lhenneca/Skye2023.html), Skye.
 
 - Counting sheaves on curves.\
   2022 年 11 月 7 日, University of Oxford. ([幻灯片](/pdf/20221107-curves.pdf))

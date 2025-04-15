@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2025-04-09
+date: 2025-04-15
 ---
 
 这是我的学术主页.
@@ -66,6 +66,8 @@ date: 2025-04-09
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
+
+- Modules and generalizations of Joyce vertex algebras.
 
 - Orthosymplectic enumerative geometry.\
   博士论文.

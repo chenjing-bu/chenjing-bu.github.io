@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2025-04-09
+date: 2025-04-15
 ---
 
 This is my research home page.
@@ -11,7 +11,7 @@ enumerative invariants such as
 Donaldson--Thomas invariants,
 and related aspects of derived algebraic geometry.
 
-See [here](/research/talks) for a list of my research talks.
+See also a list of my [talks](/research/talks).
 
 {{< toc >}}
 
@@ -65,6 +65,8 @@ See [here](/research/talks) for a list of my research talks.
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   With A. **Ibáñez Núñez** and T. **Kinjo**.
+
+- Modules and generalizations of Joyce vertex algebras.
 
 - Orthosymplectic enumerative geometry.\
   _PhD thesis_.

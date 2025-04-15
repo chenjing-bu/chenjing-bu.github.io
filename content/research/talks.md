@@ -1,14 +1,16 @@
 ---
 title: List of research talks
-lastmod: 2025-04-09
+lastmod: 2025-04-15
 ---
 
 < [Research](/research)
 
 The following is a complete list of my research talks.
 
+## 2025
+
 - TBD.\
-  June 2025, _Moduli spaces, virtual invariants and shifted symplectic structures_, KIAS, Seoul.
+  June 2025, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), KIAS, Seoul.
 
 - Orientifold Donaldson--Thomas theory.\
   20 May 2025, Imperial College London.
@@ -28,8 +30,10 @@ The following is a complete list of my research talks.
 - Intrinsic enumerative geometry.\
   3 February 2025, Imperial College London.
 
+## 2024
+
 - Vertex algebras and the homology of moduli stacks.\
-  26 December 2024, _Vertex operators in enumerative geometry_, Sanya.
+  26 December 2024, [_Vertex operators in enumerative geometry_](https://www.tsimf.cn/meeting/detail?id=389), Sanya.
 
 - {{< lang zh-cn >}}顶点代数与同调{{< /lang >}}
   \[Vertex algebras and homology\].\
@@ -37,6 +41,8 @@ The following is a complete list of my research talks.
 
 - Donaldson--Thomas invariants in type B/C/D.\
   21 February 2024, University of Warwick.
+
+## 2023
 
 - Type B/C/D enumerative invariants and vertex algebra modules.\
   29 November 2023, online, Academia Sinica.
@@ -49,7 +55,7 @@ The following is a complete list of my research talks.
   16 November 2023, University of Edinburgh.
 
 - Counting sheaves on curves.\
-  20 April 2023, _Workshop on Hall algebras and vertex algebras in enumerative geometry_, Skye.
+  20 April 2023, [_Hall algebras and vertex algebras in enumerative geometry_](https://www.maths.ed.ac.uk/~lhenneca/Skye2023.html), Skye.
 
 - Counting sheaves on curves.\
   7 November 2022, University of Oxford.
