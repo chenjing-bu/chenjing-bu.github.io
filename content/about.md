@@ -5,7 +5,11 @@ title: About
 ## About me
 
 I am a mathematics PhD student at the University of Oxford,
-working with [Dominic Joyce](https://people.maths.ox.ac.uk/joyce/).
+working with [Dominic Joyce](https://people.maths.ox.ac.uk/joyce/),
+starting in 2021.
+
+I was an undergraduate student at Tsinghua University
+from 2017 to 2021.
 
 ## About this site
 
@@ -23,5 +27,5 @@ The source code of this site is available on
 
 ## Contact
 
-Please feel free to contact me by email at
+Please feel free to contact me at
 `bu@maths.ox.ac.uk`.
