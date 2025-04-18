@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2025-04-15
+lastmod: 2025-04-18
 ---
 
 < [研究](/zh-cn/research)
@@ -10,13 +10,16 @@ lastmod: 2025-04-15
 ## 2025
 
 - 待定.\
+  2025 年 6 月, 清华大学.
+
+- 待定.\
   2025 年 6 月, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), KIAS, 首尔.
 
 - Orientifold Donaldson--Thomas theory.\
   2025 年 5 月 20 日, Imperial College London.
 
 - Intrinsic enumerative geometry.\
-  2025 年 5 月, Kyoto University.
+  2025 年 5 月 7 日, Kyoto University.
 
 - Orthosymplectic Donaldson--Thomas theory.\
   2025 年 4 月 24 日, 线上, Kansas University.
