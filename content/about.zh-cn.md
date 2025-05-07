@@ -26,5 +26,5 @@ title: 关于
 ## 联系我
 
 请通过邮件
-`bu@maths.ox.ac.uk`
+`bucj@mailbox.org`
 与我联系.
