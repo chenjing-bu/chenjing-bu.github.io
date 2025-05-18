@@ -10,7 +10,7 @@ The following is a complete list of my research talks.
 ## 2025
 
 - {{< lang zh-cn >}}群､叠与组合{{< /lang >}}
-  \[Groups, stacks, and combinatorics\].\
+  \[Groups, stacks, and their combinatorics\].\
   June 2025, _Reunion conference_, Tsinghua University.
 
 - The component lattice.\
