@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2025-04-18
+lastmod: 2025-05-18
 ---
 
 < [研究](/zh-cn/research)
@@ -9,11 +9,11 @@ lastmod: 2025-04-18
 
 ## 2025
 
-- 待定.\
-  2025 年 6 月, 清华大学.
+- 群､叠与组合.\
+  2025 年 6 月, _Reunion conference_, 清华大学.
 
-- 待定.\
-  2025 年 6 月, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), KIAS, 首尔.
+- The component lattice.\
+  2025 年 6 月 16 日, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), KIAS, 首尔.
 
 - Orientifold Donaldson--Thomas theory.\
   2025 年 5 月 20 日, Imperial College London.

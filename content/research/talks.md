@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2025-04-18
+lastmod: 2025-05-18
 ---
 
 < [Research](/research)
@@ -9,11 +9,12 @@ The following is a complete list of my research talks.
 
 ## 2025
 
-- TBD.\
-  June 2025, Tsinghua University.
+- {{< lang zh-cn >}}群､叠与组合{{< /lang >}}
+  \[Groups, stacks, and combinatorics\].\
+  June 2025, _Reunion conference_, Tsinghua University.
 
-- TBD.\
-  June 2025, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), KIAS, Seoul.
+- The component lattice.\
+  16 June 2025, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), KIAS, Seoul.
 
 - Orientifold Donaldson--Thomas theory.\
   20 May 2025, Imperial College London.
