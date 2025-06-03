@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-gb'
 defaultContentLanguage = 'en-gb'
 title = 'Chenjing Bu'
-paginate = 10
+pagination.paperSize = 10
 
 # hugo-coder config, see
 # https://github.com/luizdepra/hugo-coder/blob/main/docs/configurations.md
