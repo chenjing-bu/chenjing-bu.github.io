@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2025-05-18
+lastmod: 2025-06-03
 ---
 
 < [研究](/zh-cn/research)
@@ -10,7 +10,7 @@ lastmod: 2025-05-18
 ## 2025
 
 - 群､叠与组合.\
-  2025 年 6 月, _Reunion conference_, 清华大学.
+  2025 年 6 月 28 日, _Reunion conference_, 清华大学.
 
 - The component lattice.\
   2025 年 6 月 16 日, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), KIAS, 首尔.

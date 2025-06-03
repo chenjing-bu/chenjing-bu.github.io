@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2025-04-15
+lastmod: 2025-06-03
 ---
 
 This is my research home page.
@@ -17,7 +17,7 @@ See also a list of my [talks](/research/talks).
 
 ## Publications
 
-- C. **Bu** (2025). A motivic integral identity for $(-1)$-shifted symplectic stacks.\
+- C. **Bu**. A motivic integral identity for $(-1)$-shifted symplectic stacks.\
   {{<dimmed>}}
   _Moduli_, to appear.
   {{</dimmed>}}\
@@ -32,6 +32,10 @@ See also a list of my [talks](/research/talks).
   ([arXiv](https://arxiv.org/abs/2208.00927))
 
 ## Preprints
+
+- Modules and generalizations of Joyce vertex algebras.\
+  48 pp., 2025.
+  ([arXiv](https://arxiv.org/abs/2506.00289))
 
 - Orthosymplectic Donaldson--Thomas theory.\
   55 pp., 2025.
@@ -65,8 +69,6 @@ See also a list of my [talks](/research/talks).
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   With A. **Ibáñez Núñez** and T. **Kinjo**.
-
-- Modules and generalizations of Joyce vertex algebras.
 
 - Orthosymplectic enumerative geometry.\
   _PhD thesis_.

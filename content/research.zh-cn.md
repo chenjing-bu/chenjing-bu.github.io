@@ -1,6 +1,6 @@
 ---
 title: 研究
-date: 2025-04-15
+lastmod: 2025-06-03
 ---
 
 这是我的学术主页.
@@ -19,7 +19,7 @@ date: 2025-04-15
 
 ## 出版论文
 
-- C. **Bu** (2025). A motivic integral identity for $(-1)$-shifted symplectic stacks.\
+- C. **Bu**. A motivic integral identity for $(-1)$-shifted symplectic stacks.\
   {{<dimmed>}}
   _Moduli_, 即将出版.
   {{</dimmed>}}\
@@ -34,6 +34,10 @@ date: 2025-04-15
   ([arXiv](https://arxiv.org/abs/2208.00927))
 
 ## 预印论文
+
+- Modules and generalizations of Joyce vertex algebras.\
+  48 页, 2025.
+  ([arXiv](https://arxiv.org/abs/2506.00289))
 
 - Orthosymplectic Donaldson--Thomas theory.\
   55 页, 2025.
@@ -66,8 +70,6 @@ date: 2025-04-15
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
-
-- Modules and generalizations of Joyce vertex algebras.
 
 - Orthosymplectic enumerative geometry.\
   博士论文.
