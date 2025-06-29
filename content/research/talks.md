@@ -1,16 +1,25 @@
 ---
 title: List of research talks
-lastmod: 2025-06-03
+lastmod: 2025-06-29
 ---
 
 < [Research](/research)
 
 The following is a complete list of my research talks.
 
+## 2026
+
+- TBA.\
+  January 2026, _International Congress of Chinese Mathematicians_, Shanghai.
+
 ## 2025
 
+- TBA.\
+  November 2025, Université de Picardie Jules Verne, Amiens.
+
 - {{< lang zh-cn >}}群､叠与组合{{< /lang >}}
-  \[Groups, stacks, and their combinatorics\].\
+  \[Groups, stacks, and their combinatorics\].
+  ([slides](/pdf/20250628-tsinghua.pdf))\
   28 June 2025, _Reunion conference_, Tsinghua University.
 
 - The component lattice.\
@@ -40,8 +49,9 @@ The following is a complete list of my research talks.
   26 December 2024, [_Vertex operators in enumerative geometry_](https://www.tsimf.cn/meeting/detail?id=389), Sanya.
 
 - {{< lang zh-cn >}}顶点代数与同调{{< /lang >}}
-  \[Vertex algebras and homology\].\
-  22 July 2024, Tsinghua University. ([slides](/pdf/20240722-tsinghua.pdf))
+  \[Vertex algebras and homology\].
+  ([slides](/pdf/20240722-tsinghua.pdf))\
+  22 July 2024, Tsinghua University.
 
 - Donaldson--Thomas invariants in type B/C/D.\
   21 February 2024, University of Warwick.
@@ -51,9 +61,9 @@ The following is a complete list of my research talks.
 - Type B/C/D enumerative invariants and vertex algebra modules.\
   29 November 2023, online, Academia Sinica.
 
-- A theory of type B/C/D enumerative invariants.\
+- A theory of type B/C/D enumerative invariants.
+  ([slides](/pdf/20231120-self-dual.pdf))\
   20 November 2023, University of Oxford.
-  ([slides](/pdf/20231120-self-dual.pdf))
 
 - A theory of type B/C/D enumerative invariants.\
   16 November 2023, University of Edinburgh.
@@ -63,6 +73,6 @@ The following is a complete list of my research talks.
 
 ## 2022
 
-- Counting sheaves on curves.\
+- Counting sheaves on curves.
+  ([slides](/pdf/20221107-curves.pdf))\
   7 November 2022, University of Oxford.
-  ([slides](/pdf/20221107-curves.pdf))

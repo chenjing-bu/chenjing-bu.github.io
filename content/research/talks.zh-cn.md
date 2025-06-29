@@ -1,16 +1,25 @@
 ---
 title: 学术报告列表
-lastmod: 2025-06-03
+lastmod: 2025-06-29
 ---
 
 < [研究](/zh-cn/research)
 
 以下是我的学术报告列表.
 
+## 2026
+
+- 待定.\
+  2026 年 1 月, 世界华人数学家大会, 上海.
+
 ## 2025
 
-- 群､叠与组合.\
-  2025 年 6 月 28 日, _Reunion conference_, 清华大学.
+- 待定.\
+  2025 年 11 月, Université de Picardie Jules Verne, Amiens.
+
+- 群､叠与组合.
+  ([幻灯片](/pdf/20250628-tsinghua.pdf))\
+  2025 年 6 月 28 日, 清华数学人重聚会议, 清华大学.
 
 - The component lattice.\
   2025 年 6 月 16 日, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), KIAS, 首尔.
@@ -38,8 +47,9 @@ lastmod: 2025-06-03
 - Vertex algebras and the homology of moduli stacks.\
   2024 年 12 月 26 日, [_Vertex operators in enumerative geometry_](https://www.tsimf.cn/meeting/detail?id=389), 三亚.
 
-- 顶点代数与同调.\
-  2024 年 7 月 22 日, 清华大学. ([幻灯片](/pdf/20240722-tsinghua.pdf))
+- 顶点代数与同调.
+  ([幻灯片](/pdf/20240722-tsinghua.pdf))\
+  2024 年 7 月 22 日, 清华大学.
 
 - Donaldson--Thomas invariants in type B/C/D.\
   2024 年 2 月 21 日, University of Warwick.
@@ -49,8 +59,9 @@ lastmod: 2025-06-03
 - Type B/C/D enumerative invariants and vertex algebra modules.\
   2023 年 11 月 29 日, 线上, Academia Sinica.
 
-- A theory of type B/C/D enumerative invariants.\
-  2023 年 11 月 20 日, University of Oxford. ([幻灯片](/pdf/20231120-self-dual.pdf))
+- A theory of type B/C/D enumerative invariants.
+  ([幻灯片](/pdf/20231120-self-dual.pdf))\
+  2023 年 11 月 20 日, University of Oxford.
 
 - A theory of type B/C/D enumerative invariants.\
   2023 年 11 月 16 日, University of Edinburgh.
@@ -60,5 +71,6 @@ lastmod: 2025-06-03
 
 ## 2022
 
-- Counting sheaves on curves.\
-  2022 年 11 月 7 日, University of Oxford. ([幻灯片](/pdf/20221107-curves.pdf))
+- Counting sheaves on curves.
+  ([幻灯片](/pdf/20221107-curves.pdf))\
+  2022 年 11 月 7 日, University of Oxford.
