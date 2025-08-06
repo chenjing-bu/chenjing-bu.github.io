@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2025-06-29
+lastmod: 2025-08-06
 ---
 
 < [Research](/research)
@@ -16,6 +16,9 @@ The following is a complete list of my research talks.
 
 - TBA.\
   November 2025, Université de Picardie Jules Verne, Amiens.
+
+- TBA.\
+  29 September 2025, KIAS, Seoul.
 
 - {{< lang zh-cn >}}群､叠与组合{{< /lang >}}
   \[Groups, stacks, and their combinatorics\].

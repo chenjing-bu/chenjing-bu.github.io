@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2025-06-29
+lastmod: 2025-08-06
 ---
 
 < [研究](/zh-cn/research)
@@ -16,6 +16,9 @@ lastmod: 2025-06-29
 
 - 待定.\
   2025 年 11 月, Université de Picardie Jules Verne, Amiens.
+
+- 待定.\
+  2025 年 9 月 29 日, KIAS, 首尔.
 
 - 群､叠与组合.
   ([幻灯片](/pdf/20250628-tsinghua.pdf))\

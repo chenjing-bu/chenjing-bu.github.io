@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2025-06-03
+lastmod: 2025-08-06
 ---
 
 这是我的学术主页.
@@ -66,13 +66,16 @@ lastmod: 2025-06-03
   147 页, 2023. 已由新文替代.
   ([arXiv](https://arxiv.org/abs/2302.00038))
 
+## 博士论文
+
+- Orthosymplectic enumerative geometry.\
+  博士论文, 初稿, 2025.
+  ([pdf](/pdf/thesis.pdf))
+
 ## 撰写中
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
-
-- Orthosymplectic enumerative geometry.\
-  博士论文.
 
 ## 其他作品
 

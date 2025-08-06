@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2025-06-03
+lastmod: 2025-08-06
 ---
 
 This is my research home page.
@@ -65,13 +65,16 @@ See also a list of my [talks](/research/talks).
   Superseded by a new work.
   ([arXiv](https://arxiv.org/abs/2302.00038))
 
-## Works in progress
+## Thesis
+
+- Orthosymplectic enumerative geometry.\
+  _PhD thesis_, draft, 2025.
+  ([pdf](/pdf/thesis.pdf))
+
+## Work in progress
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   With A. **Ibáñez Núñez** and T. **Kinjo**.
-
-- Orthosymplectic enumerative geometry.\
-  _PhD thesis_.
 
 ## Other writings
 
