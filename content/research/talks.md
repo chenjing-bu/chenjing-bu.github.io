@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2025-08-06
+lastmod: 2025-09-12
 ---
 
 < [Research](/research)
@@ -17,8 +17,14 @@ The following is a complete list of my research talks.
 - TBA.\
   November 2025, Université de Picardie Jules Verne, Amiens.
 
-- TBA.\
+- Counting sheaves on curves.\
   29 September 2025, KIAS, Seoul.
+
+- Intrinsic cohomological integrality.\
+  24 September 2025, Morningside Center of Mathematics, Chinese Academy of Sciences, Beijing.
+
+- Joyce's wall-crossing formulae.\
+  15 September 2025, _[Wall-crossing: techniques and applications](https://aimath.org/workshops/wallcrossing/)_, online, American Institute of Mathematics.
 
 - {{< lang zh-cn >}}群､叠与组合{{< /lang >}}
   \[Groups, stacks, and their combinatorics\].
@@ -38,7 +44,7 @@ The following is a complete list of my research talks.
   24 April 2025, online, Kansas University.
 
 - Intrinsic enumerative geometry.\
-  8 April 2025, Kavli IPMU.
+  8 April 2025, Kavli IPMU, Kashiwa.
 
 - Intrinsic enumerative geometry.\
   19 March 2025, University of Edinburgh.
