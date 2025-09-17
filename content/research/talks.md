@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2025-09-12
+lastmod: 2025-09-17
 ---
 
 < [Research](/research)
@@ -21,7 +21,9 @@ The following is a complete list of my research talks.
   29 September 2025, KIAS, Seoul.
 
 - Intrinsic cohomological integrality.\
-  24 September 2025, Morningside Center of Mathematics, Chinese Academy of Sciences, Beijing.
+  24 September 2025,
+  [_Beijing algebraic geometry day_](http://www.mcm.ac.cn/events/programs/202509/t20250917_774061.html),
+  Morningside Center of Mathematics, Chinese Academy of Sciences, Beijing.
 
 - Joyce's wall-crossing formulae.\
   15 September 2025, _[Wall-crossing: techniques and applications](https://aimath.org/workshops/wallcrossing/)_, online, American Institute of Mathematics.

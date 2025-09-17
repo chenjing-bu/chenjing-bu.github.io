@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2025-09-12
+lastmod: 2025-09-17
 ---
 
 < [研究](/zh-cn/research)
@@ -21,7 +21,9 @@ lastmod: 2025-09-12
   2025 年 9 月 29 日, KIAS, 首尔.
 
 - Intrinsic cohomological integrality.\
-  2025 年 9 月 24 日, 中国科学院晨兴数学中心, 北京.
+  2025 年 9 月 24 日,
+  [_Beijing algebraic geometry day_](http://www.mcm.ac.cn/events/programs/202509/t20250917_774061.html),
+  中国科学院晨兴数学中心, 北京.
 
 - Joyce's wall-crossing formulae.\
   2025 年 9 月 15 日, _[Wall-crossing: techniques and applications](https://aimath.org/workshops/wallcrossing/)_, 线上, American Institute of Mathematics.
