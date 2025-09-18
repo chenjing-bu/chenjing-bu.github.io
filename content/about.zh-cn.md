@@ -4,10 +4,11 @@ title: 关于
 
 ## 关于我
 
-我目前在牛津大学做数学博士生,
-跟从 [Dominic Joyce](https://people.maths.ox.ac.uk/joyce/) 研究代数几何,
-从 2021 年开始.
+我目前在[牛津大学数学系](https://www.maths.ox.ac.uk/) 做博士后,
+从事代数几何研究.
 
+在此之前, 我从 2021 年到 2025 年在牛津大学做数学博士生,
+跟从 [Dominic Joyce](https://people.maths.ox.ac.uk/joyce/).
 我从 2017 年到 2021 年于清华大学就读本科.
 
 ## 关于本站
