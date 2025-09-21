@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2025-08-06
+lastmod: 2025-09-21
 ---
 
 This is my research home page.
@@ -48,12 +48,12 @@ See also a list of my [talks](/research/talks).
 
 - Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
   With D. **Halpern-Leistner**, A. **Ibáñez Núñez**, and T. **Kinjo**.\
-  64 pp., 2025.
+  68 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2502.13892))
 
 - Cohomology of symmetric stacks.\
   With B. **Davison**, A. **Ibáñez Núñez**, T. **Kinjo**, and T. **Pădurariu**.\
-  119 pp., 2025.
+  131 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2502.04253))
 
 - Enumerative invariants in self-dual categories. II. Homological invariants.\
