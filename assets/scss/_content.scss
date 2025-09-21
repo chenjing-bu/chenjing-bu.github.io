@@ -25,6 +25,8 @@
   }
 
   article {
+    text-align: justify;
+
     a:where(.external-link):not(:has(img)):after {
       @extend %fa-icon;
       @extend .fa-solid;
@@ -52,7 +54,6 @@
     }
 
     p {
-      text-align: justify;
       text-justify: auto;
       -ms-hyphens: auto;
       -webkit-hyphens: auto;

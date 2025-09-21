@@ -1,4 +1,7 @@
 <div
   class="center"
-  style="{{ if .Params.width }}max-width: {{ .Params.width }}; {{end}}"
+  {{ if .Params }}
+    {{ if .Params.id }}id="{{ .Params.id }}"{{ end }}
+    style="{{ if .Params.width }}max-width: {{ .Params.width }}; {{end}}"
+  {{ end }}
 >{{ .Inner | markdownify }}</div>
