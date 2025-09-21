@@ -40,7 +40,7 @@ corresponds to the following root system in $\mathbb{R}^3$:
 {{</centre>}}
 
 Here, we project $\mathbb{R}^3$ onto the plane along the $(1, 1, 1)$-direction,
-so the symmetry can be seen from the picture.
+so the symmetry can be better seen from the picture.
 There are $6$ roots indicated by blue dots,
 with coordinates $(1, -1, 0)$ and all its $6$ permutations,
 all lying on the plane $x + y + z = 0$.
@@ -55,12 +55,12 @@ In general, this construction roughly goes as follows.
 Any complex Lie group $G$ admits a **maximal torus** $T \subset G$,
 which is a subgroup of the form $T \simeq (\mathbb{C}^\times)^n$ for some $n$,
 where $\mathbb{C}^\times = \mathbb{C} \setminus \\{ 0 \\}$
-is the multiplicative group of complex numbers.
+is the multiplicative group of non-zero complex numbers.
 The number $n$ is the **rank** of $G$.
 For example, the rank of $\mathrm{GL}_n (\mathbb{C})$ is $n$,
 and its subgroup of diagonal matrices is a maximal torus.
 
-We have the **cocharacter lattice** and the **character lattice**,
+Consider the **cocharacter lattice** and the **character lattice** of $T$,
 $$
   \begin{aligned}
     \Lambda_T & = \mathrm{Hom} (\mathbb{C}^\times, T) \simeq \mathbb{Z}^n \ ,
@@ -79,7 +79,7 @@ The Lie algebra $\mathfrak{g}$ of $G$ is a representation of $T$
 via the adjoint action,
 and $\Phi \subset \Lambda^T$
 is the set of non-zero weights of this representation.
-Each root determines a hyperplane in $\Lambda_T$,
+Each root also determines a hyperplane in $\Lambda_T$,
 and the set of these hyperplanes is the
 **root hyperplane arrangement** in $\Lambda_T$,
 represented by blue lines in [Figure 1](#fig-1).
