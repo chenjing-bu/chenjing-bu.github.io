@@ -180,6 +180,7 @@ As a slightly less trivial example, for a complex Lie group $G$,
 there is the **classifying stack** denoted by $* / G$
 (read as 'point mod $G$'),
 which has a single point with automorphism group $G$.
+In this way, Lie groups can be seen as special cases of stacks.
 
 {{<spoiler title="Remark on defining stacks">}}
 The precise definition of stacks is more complicated,
