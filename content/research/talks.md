@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2025-09-17
+lastmod: 2025-09-26
 ---
 
 < [Research](/research)
@@ -9,13 +9,16 @@ The following is a complete list of my research talks.
 
 ## 2026
 
-- TBA.\
+- Stacks, Weyl groups, and enumerative geometry.\
   January 2026, _International Congress of Chinese Mathematicians_, Shanghai.
 
 ## 2025
 
 - TBA.\
   November 2025, Université de Picardie Jules Verne, Amiens.
+
+- TBA.\
+  4 November 2025, University of Oxford.
 
 - Counting sheaves on curves.\
   29 September 2025, KIAS, Seoul.

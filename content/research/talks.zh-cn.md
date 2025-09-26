@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2025-09-17
+lastmod: 2025-09-26
 ---
 
 < [研究](/zh-cn/research)
@@ -9,13 +9,16 @@ lastmod: 2025-09-17
 
 ## 2026
 
-- 待定.\
+- Stacks, Weyl groups, and enumerative geometry.\
   2026 年 1 月, 世界华人数学家大会, 上海.
 
 ## 2025
 
 - 待定.\
   2025 年 11 月, Université de Picardie Jules Verne, Amiens.
+
+- 待定.\
+  2025 年 11 月 4 日, University of Oxford.
 
 - Counting sheaves on curves.\
   2025 年 9 月 29 日, KIAS, 首尔.

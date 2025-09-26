@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2025-09-21
+lastmod: 2025-09-26
 ---
 
 This is my research home page.
@@ -71,7 +71,10 @@ See also a list of my [talks](/research/talks).
   _PhD thesis_, draft, 2025.
   ([pdf](/pdf/thesis.pdf))
 
-## Work in progress
+## Works in progress
+
+- Generalized intersection pairings on moduli spaces of semistable vector bundles over a curve.\
+  With Y.-H. **Kiem**.
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   With A. **Ibáñez Núñez** and T. **Kinjo**.

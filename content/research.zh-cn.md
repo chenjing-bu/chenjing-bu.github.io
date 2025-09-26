@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2025-09-21
+lastmod: 2025-09-26
 ---
 
 这是我的学术主页.
@@ -73,6 +73,9 @@ lastmod: 2025-09-21
   ([pdf](/pdf/thesis.pdf))
 
 ## 撰写中
+
+- Generalized intersection pairings on moduli spaces of semistable vector bundles over a curve.\
+  与 Y.-H. **Kiem** 合作.
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
