@@ -29,5 +29,5 @@ The source code of this site is available on
 
 ## Contact
 
-Please feel free to contact me at
+Please contact me at
 `bucj@mailbox.org`.
