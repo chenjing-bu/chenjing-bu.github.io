@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2025-09-26
+lastmod: 2025-10-12
 ---
 
 This is my research home page.
@@ -73,7 +73,7 @@ See also a list of my [talks](/research/talks).
 
 ## Works in progress
 
-- Generalized intersection pairings on moduli spaces of semistable vector bundles over a curve.\
+- Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
   With Y.-H. **Kiem**.
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
