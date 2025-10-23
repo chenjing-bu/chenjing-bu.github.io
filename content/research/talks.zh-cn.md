@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2025-09-26
+lastmod: 2025-10-23
 ---
 
 < [研究](/zh-cn/research)
@@ -9,15 +9,15 @@ lastmod: 2025-09-26
 
 ## 2026
 
-- Stacks, Weyl groups, and enumerative geometry.\
-  2026 年 1 月, 世界华人数学家大会, 上海.
+- Stacks and combinatorics in enumerative geometry.\
+  2026 年 1 月 7 日, [世界华人数学家大会](https://2025iccm.simis.cn/site/), 上海.
 
 ## 2025
 
 - 待定.\
   2025 年 11 月, Université de Picardie Jules Verne, Amiens.
 
-- 待定.\
+- Intrinsic Donaldson--Thomas theory.\
   2025 年 11 月 4 日, University of Oxford.
 
 - Counting sheaves on curves.\

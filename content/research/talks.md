@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2025-09-26
+lastmod: 2025-10-23
 ---
 
 < [Research](/research)
@@ -9,15 +9,15 @@ The following is a complete list of my research talks.
 
 ## 2026
 
-- Stacks, Weyl groups, and enumerative geometry.\
-  January 2026, _International Congress of Chinese Mathematicians_, Shanghai.
+- Stacks and combinatorics in enumerative geometry.\
+  7 January 2026, [_International Congress of Chinese Mathematicians_](https://2025iccm.simis.cn/site/), Shanghai.
 
 ## 2025
 
 - TBA.\
   November 2025, Université de Picardie Jules Verne, Amiens.
 
-- TBA.\
+- Intrinsic Donaldson--Thomas theory.\
   4 November 2025, University of Oxford.
 
 - Counting sheaves on curves.\
