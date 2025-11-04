@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2025-10-12
+lastmod: 2025-11-04
 ---
 
 这是我的学术主页.
@@ -19,10 +19,11 @@ lastmod: 2025-10-12
 
 ## 出版论文
 
-- C. **Bu**. A motivic integral identity for $(-1)$-shifted symplectic stacks.\
+- C. **Bu** (2025). A motivic integral identity for $(-1)$-shifted symplectic stacks.\
   {{<dimmed>}}
-  _Moduli_, 即将出版.
+  _Moduli_ 2, e16, 38 页.
   {{</dimmed>}}\
+  ([doi](https://doi.org/10.1112/mod.2025.10009))
   ([arXiv](https://arxiv.org/abs/2405.10092))
 
 - C. **Bu** (2023). Counting sheaves on curves.\
