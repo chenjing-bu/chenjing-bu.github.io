@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2025-10-23
+lastmod: 2025-11-06
 ---
 
 < [Research](/research)
@@ -14,8 +14,8 @@ The following is a complete list of my research talks.
 
 ## 2025
 
-- TBA.\
-  November 2025, Université de Picardie Jules Verne, Amiens.
+- Combinatorial and algebraic structures from parabolic induction.\
+  20 November 2025, Université de Picardie Jules Verne, Amiens.
 
 - Intrinsic Donaldson--Thomas theory.\
   4 November 2025, University of Oxford.
