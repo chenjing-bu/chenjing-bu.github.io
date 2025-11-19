@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2025-11-04
+lastmod: 2025-11-19
 ---
 
 This is my research home page.
@@ -33,6 +33,11 @@ See also a list of my [talks](/research/talks).
   ([arXiv](https://arxiv.org/abs/2208.00927))
 
 ## Preprints
+
+- Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
+  With Y.-H. **Kiem**.\
+  43 pp., 2025.
+  ([arXiv](https://arxiv.org/abs/2511.14647))
 
 - Modules and generalizations of Joyce vertex algebras.\
   48 pp., 2025.
@@ -72,10 +77,7 @@ See also a list of my [talks](/research/talks).
   _PhD thesis_, draft, 2025.
   ([pdf](/pdf/thesis.pdf))
 
-## Works in progress
-
-- Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
-  With Y.-H. **Kiem**.
+## Work in progress
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   With A. **Ibáñez Núñez** and T. **Kinjo**.

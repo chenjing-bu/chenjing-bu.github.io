@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2025-11-04
+lastmod: 2025-11-19
 ---
 
 这是我的学术主页.
@@ -35,6 +35,11 @@ lastmod: 2025-11-04
   ([arXiv](https://arxiv.org/abs/2208.00927))
 
 ## 预印论文
+
+- Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
+  与 Y.-H. **Kiem** 合作.\
+  43 页, 2025.
+  ([arXiv](https://arxiv.org/abs/2511.14647))
 
 - Modules and generalizations of Joyce vertex algebras.\
   48 页, 2025.
@@ -74,9 +79,6 @@ lastmod: 2025-11-04
   ([pdf](/pdf/thesis.pdf))
 
 ## 撰写中
-
-- Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
-  与 Y.-H. **Kiem** 合作.
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.

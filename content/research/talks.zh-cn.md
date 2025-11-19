@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2025-11-06
+lastmod: 2025-11-19
 ---
 
 < [研究](/zh-cn/research)
@@ -15,7 +15,7 @@ lastmod: 2025-11-06
 ## 2025
 
 - Combinatorial and algebraic structures from parabolic induction.\
-  2025 年 11 月 20 日, Université de Picardie Jules Verne, Amiens.
+  2025 年 11 月 20 日, {{< lang fr >}}Laboratoire Amiénois de Mathématique Fondamentale et Appliquée,{{< /lang >}} Amiens.
 
 - Intrinsic Donaldson--Thomas theory.\
   2025 年 11 月 4 日, University of Oxford.
