@@ -8,10 +8,14 @@ I am a postdoctoral researcher at the
 [Mathematical Institute](https://www.maths.ox.ac.uk/),
 University of Oxford.
 
-I was a PhD student at the University of Oxford from 2021 to 2025,
+From 2021 to 2025,
+I was a PhD student at the University of Oxford,
 supervised by [Dominic Joyce](https://people.maths.ox.ac.uk/joyce/).
-Before that, I was an undergraduate student at Tsinghua University
-from 2017 to 2021.
+
+From 2017 to 2021,
+I was an undergraduate student at Tsinghua University,
+where my dissertation was supervised by
+[Si Li](https://sili-math.github.io/).
 
 ## About this site
 

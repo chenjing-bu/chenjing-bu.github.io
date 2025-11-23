@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2025-11-19
+lastmod: 2025-11-23
 ---
 
 这是我的学术主页.
@@ -10,7 +10,8 @@ lastmod: 2025-11-19
 的理论及
 [Donaldson--Thomas 不变量](https://www.bananaspace.org/wiki/Donaldson%E2%80%93Thomas_%E4%B8%8D%E5%8F%98%E9%87%8F)
 等计数不变量,
-以及[导出代数几何](https://www.bananaspace.org/wiki/%E5%AF%BC%E5%87%BA%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
+以及[几何表示论](https://www.bananaspace.org/wiki/%E5%87%A0%E4%BD%95%E8%A1%A8%E7%A4%BA%E8%AE%BA)
+与[导出代数几何](https://www.bananaspace.org/wiki/%E5%AF%BC%E5%87%BA%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
 的相关方面.
 
 另见我的[学术报告列表](/zh-cn/research/talks).

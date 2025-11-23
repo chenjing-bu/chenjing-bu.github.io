@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2025-11-19
+lastmod: 2025-11-23
 ---
 
 This is my research home page.
@@ -9,7 +9,8 @@ I work in algebraic geometry,
 with primary interests in the theory of algebraic stacks,
 enumerative invariants such as
 Donaldson--Thomas invariants,
-and related aspects of derived algebraic geometry.
+and related aspects of geometric representation theory
+and derived algebraic geometry.
 
 See also a list of my [talks](/research/talks).
 
