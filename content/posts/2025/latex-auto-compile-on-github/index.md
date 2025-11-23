@@ -1,6 +1,7 @@
 ---
 title: LaTeX auto-compile on GitHub
 date: 2025-02-06
+lastmod: 2025-11-23
 tags: [LaTeX]
 abstract: |
   A very useful feature for heavy LaTeX users.
@@ -35,6 +36,10 @@ it has also helped me in several, partly unexpected, ways:
   to produce the `.bbl` bibliography file, then upload it.
   With this set-up,
   I can have GitHub do this for me without having to install this old version.
+
+  **Update:** Now, arXiv no longer requires the `.bbl` file, although it still hates Unicode.
+  However, this can still be helpful for compiling using a specific version of TeX Live,
+  for example if a package breaks in a new version, which has happened to me.
 
 Of course, you still need to have a working LaTeX installation
 on your local machine to compile the document while you are writing it.
