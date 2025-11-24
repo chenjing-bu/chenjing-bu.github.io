@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2025-11-19
+lastmod: 2025-11-24
 ---
 
 < [研究](/zh-cn/research)
@@ -10,7 +10,7 @@ lastmod: 2025-11-19
 ## 2026
 
 - Stacks and combinatorics in enumerative geometry.\
-  2026 年 1 月 7 日, [世界华人数学家大会](https://2025iccm.simis.cn/site/), 上海.
+  2026 年 1 月 7 日, [世界华人数学家大会](https://2025iccm.simis.cn/iccm2025/site/), 上海.
 
 ## 2025
 
