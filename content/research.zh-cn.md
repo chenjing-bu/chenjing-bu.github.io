@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2025-11-23
+lastmod: 2025-12-17
 ---
 
 这是我的学术主页.
@@ -25,6 +25,7 @@ lastmod: 2025-11-23
   _Moduli_ 2, e16, 38 页.
   {{</dimmed>}}\
   ([doi](https://doi.org/10.1112/mod.2025.10009))
+  ([zbMATH](https://zbmath.org/8137200))
   ([arXiv](https://arxiv.org/abs/2405.10092))
 
 - C. **Bu** (2023). Counting sheaves on curves.\
