@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2025-12-17
+lastmod: 2026-01-01
 ---
 
 This is my research home page.
@@ -12,7 +12,7 @@ Donaldson--Thomas invariants,
 and related aspects of geometric representation theory
 and derived algebraic geometry.
 
-See also a list of my [talks](/research/talks).
+See also a list of my [talks](/talks).
 
 {{< toc >}}
 
@@ -35,6 +35,10 @@ See also a list of my [talks](/research/talks).
   ([arXiv](https://arxiv.org/abs/2208.00927))
 
 ## Preprints
+
+- Proper moduli spaces of orthosymplectic complexes.\
+  9 pp., 2025.
+  ([arXiv](https://arxiv.org/abs/2512.24275))
 
 - Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
   With Y.-H. **Kiem**.\

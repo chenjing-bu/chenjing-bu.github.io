@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2025-12-17
+lastmod: 2026-01-01
 ---
 
 这是我的学术主页.
@@ -14,7 +14,7 @@ lastmod: 2025-12-17
 与[导出代数几何](https://www.bananaspace.org/wiki/%E5%AF%BC%E5%87%BA%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
 的相关方面.
 
-另见我的[学术报告列表](/zh-cn/research/talks).
+另见我的[学术报告列表](/zh-cn/talks).
 
 {{< toc >}}
 
@@ -37,6 +37,10 @@ lastmod: 2025-12-17
   ([arXiv](https://arxiv.org/abs/2208.00927))
 
 ## 预印论文
+
+- Proper moduli spaces of orthosymplectic complexes.\
+  9 页, 2025.
+  ([arXiv](https://arxiv.org/abs/2512.24275))
 
 - Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
   与 Y.-H. **Kiem** 合作.\
