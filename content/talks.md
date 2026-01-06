@@ -1,13 +1,14 @@
 ---
 title: List of research talks
-lastmod: 2026-01-01
+lastmod: 2026-01-06
 ---
 
 The following is a complete list of my research talks.
 
 ## 2026
 
-- Stacks and combinatorics in enumerative geometry.\
+- Stacks and combinatorics in enumerative geometry.
+  ([slides](/pdf/20260106-iccm.pdf))\
   6 January 2026, [_International Congress of Chinese Mathematicians_](https://2025iccm.simis.cn/iccm2025/site/), Shanghai.
 
 ## 2025
