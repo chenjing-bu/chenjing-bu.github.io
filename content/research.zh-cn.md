@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2026-01-01
+lastmod: 2026-01-23
 ---
 
 这是我的学术主页.
@@ -81,7 +81,7 @@ lastmod: 2026-01-01
 ## 博士论文
 
 - Orthosymplectic enumerative geometry.\
-  博士论文, 初稿, 2025.
+  博士论文, 2025.
   ([pdf](/pdf/thesis.pdf))
 
 ## 撰写中

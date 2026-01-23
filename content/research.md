@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2026-01-01
+lastmod: 2026-01-23
 ---
 
 This is my research home page.
@@ -80,7 +80,7 @@ See also a list of my [talks](/talks).
 ## Thesis
 
 - Orthosymplectic enumerative geometry.\
-  _PhD thesis_, draft, 2025.
+  _PhD thesis_, 2025.
   ([pdf](/pdf/thesis.pdf))
 
 ## Work in progress
