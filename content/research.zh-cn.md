@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2026-01-23
+lastmod: 2026-02-22
 ---
 
 这是我的学术主页.
@@ -85,6 +85,9 @@ lastmod: 2026-01-23
   ([pdf](/pdf/thesis.pdf))
 
 ## 撰写中
+
+- Semiorthogonal decompositions for stacks.\
+  与 T. **Pădurariu**, Y. **Toda** 合作.
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.

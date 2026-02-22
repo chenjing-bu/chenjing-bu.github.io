@@ -1,11 +1,14 @@
 ---
 title: List of research talks
-lastmod: 2026-01-06
+lastmod: 2026-02-22
 ---
 
 The following is a complete list of my research talks.
 
 ## 2026
+
+- Semiorthogonal decompositions for stacks.\
+  March 2026, [_Séminaire ALPE_](https://www.math.univ-toulouse.fr/~rcampos/ALPE/next_event.html), {{< lang fr >}}Institut Montpelliérain Alexander Grothendieck,{{< /lang >}} Montpellier.
 
 - Stacks and combinatorics in enumerative geometry.
   ([slides](/pdf/20260106-iccm.pdf))\
@@ -24,7 +27,7 @@ The following is a complete list of my research talks.
 
 - Intrinsic cohomological integrality.\
   24 September 2025,
-  [_Beijing algebraic geometry day_](http://www.mcm.ac.cn/events/programs/202509/t20250917_774061.html),
+  _Beijing algebraic geometry day_,
   Morningside Center of Mathematics, Chinese Academy of Sciences, Beijing.
 
 - Joyce's wall-crossing formulae.\
@@ -59,7 +62,7 @@ The following is a complete list of my research talks.
 ## 2024
 
 - Vertex algebras and the homology of moduli stacks.\
-  26 December 2024, [_Vertex operators in enumerative geometry_](https://www.tsimf.cn/meeting/detail?id=389), Sanya.
+  26 December 2024, _Vertex operators in enumerative geometry_, Sanya.
 
 - {{< lang zh-cn >}}顶点代数与同调{{< /lang >}}
   \[Vertex algebras and homology\].
@@ -82,7 +85,7 @@ The following is a complete list of my research talks.
   16 November 2023, University of Edinburgh.
 
 - Counting sheaves on curves.\
-  20 April 2023, [_Hall algebras and vertex algebras in enumerative geometry_](https://www.maths.ed.ac.uk/~lhenneca/Skye2023.html), Skye.
+  20 April 2023, _Hall algebras and vertex algebras in enumerative geometry_, Skye.
 
 ## 2022
 

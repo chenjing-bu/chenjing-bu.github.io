@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2026-01-23
+lastmod: 2026-02-22
 ---
 
 This is my research home page.
@@ -83,7 +83,10 @@ See also a list of my [talks](/talks).
   _PhD thesis_, 2025.
   ([pdf](/pdf/thesis.pdf))
 
-## Work in progress
+## Works in progress
+
+- Semiorthogonal decompositions for stacks.\
+  With T. **Pădurariu** and Y. **Toda**.
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   With A. **Ibáñez Núñez** and T. **Kinjo**.
