@@ -9,7 +9,6 @@ pagination.paperSize = 10
 [params]
 author = 'Chenjing Bu'
 altAuthor = '<span lang="zh-cn">卜辰璟</span>'
-info = 'Doing mathematics at the University of Oxford.'
 description = 'Chenjing Bu’s homepage'
 katex = true
 dateFormat = '2 Jan 2006'
@@ -53,7 +52,6 @@ title = '卜辰璟'
 [languages.zh-cn.params]
 author = '卜辰璟'
 altAuthor = 'Chenjing Bu'
-info = '在牛津大学从事数学研究.'
 description = '卜辰璟的个人主页'
 dateFormat = '2006 年 1 月 2 日'
 

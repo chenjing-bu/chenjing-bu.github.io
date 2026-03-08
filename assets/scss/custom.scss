@@ -235,51 +235,31 @@ span.katex svg {
 }
 
 // Home page
-.about {
-  margin-bottom: 40%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+.content header h1.home-title {
+  font-size: 2.2em;
+  margin: 0 0 .6em 0;
 }
 
-h1.home-title {
-  font-size: 2em;
-  padding: 0.4em 0.1em;
-  border-bottom: 0.4rem solid $link-color;
-}
-
-body.colorscheme-dark {
-  h1.home-title {
-    border-bottom-color: $link-color-dark;
-  }
-}
-
-.centered .about h2.home-subtitle {
-  font-size: 1.6em;
-  letter-spacing: 0.5em;
+h2.home-subtitle {
+  font-size: 1.9em;
   font-weight: normal;
-  margin: 0.25em -0.5em 1.5em 0;
+  margin: 0 0 1.8em -.1em;
+  letter-spacing: .05em;
 }
 
 html[lang="zh-cn"] {
-  h1.home-title {
+  .content header h1.home-title {
+    font-size: 2.3em;
+    margin: 0 0 .5em -.1em;
+    letter-spacing: .05em;
+  }
+
+  h2.home-subtitle {
+    font-size: 1.8em;
     font-weight: normal;
-    padding: 0.5em 0.5em 0.5em 0.75em;
-    letter-spacing: 0.25em;
-  }
-
-  .centered .about h2.home-subtitle {
-    font-size: 1.5em;
-    font-weight: 500;
+    margin: 0 0 2em 0;
     letter-spacing: 0;
-    margin: 0.15em 0 1.6em 0;
   }
-}
-
-p.home-desc {
-  font-size: 1.2em;
-  margin: 0;
 }
 
 // Posts
