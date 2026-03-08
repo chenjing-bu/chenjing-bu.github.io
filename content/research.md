@@ -1,9 +1,7 @@
 ---
 title: Research
-lastmod: 2026-02-22
+lastmod: 2026-03-08
 ---
-
-This is my research home page.
 
 I work in algebraic geometry,
 with primary interests in the theory of algebraic stacks,
@@ -11,8 +9,6 @@ enumerative invariants such as
 Donaldson--Thomas invariants,
 and related aspects of geometric representation theory
 and derived algebraic geometry.
-
-See also a list of my [talks](/talks).
 
 {{< toc >}}
 
@@ -77,12 +73,6 @@ See also a list of my [talks](/talks).
   Superseded by a new work.
   ([arXiv](https://arxiv.org/abs/2302.00038))
 
-## Thesis
-
-- Orthosymplectic enumerative geometry.\
-  _PhD thesis_, 2025.
-  ([pdf](/pdf/thesis.pdf))
-
 ## Works in progress
 
 - Semiorthogonal decompositions for stacks.\
@@ -90,6 +80,12 @@ See also a list of my [talks](/talks).
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   With A. **Ibáñez Núñez** and T. **Kinjo**.
+
+## Thesis
+
+- Orthosymplectic enumerative geometry.\
+  _PhD thesis_, 2025.
+  ([pdf](/pdf/thesis.pdf))
 
 ## Other writings
 
@@ -105,6 +101,7 @@ Notes written for reading groups that I organized as an undergraduate.
 - {{< lang zh-cn >}}示性类{{< /lang >}}
   \[Characteristic classes\].\
   2019.
+  ([pdf](/pdf/CC.pdf))
   ([web](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E7%A4%BA%E6%80%A7%E7%B1%BB))
 
 ### Course projects

@@ -1,11 +1,14 @@
 ---
 title: 学术报告列表
-lastmod: 2026-02-22
+lastmod: 2026-03-08
 ---
 
 以下是我的学术报告列表.
 
 ## 2026
+
+- Semiorthogonal decompositions for stacks.\
+  2026 年 4 月 9 日, KIAS, 首尔.
 
 - Semiorthogonal decompositions for stacks.\
   2026 年 3 月, [_Séminaire ALPE_](https://www.math.univ-toulouse.fr/~rcampos/ALPE/next_event.html), {{< lang fr >}}Institut Montpelliérain Alexander Grothendieck,{{< /lang >}} Montpellier.

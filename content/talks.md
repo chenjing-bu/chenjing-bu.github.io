@@ -1,11 +1,14 @@
 ---
 title: List of research talks
-lastmod: 2026-02-22
+lastmod: 2026-03-08
 ---
 
 The following is a complete list of my research talks.
 
 ## 2026
+
+- Semiorthogonal decompositions for stacks.\
+  9 April 2026, KIAS, Seoul.
 
 - Semiorthogonal decompositions for stacks.\
   March 2026, [_Séminaire ALPE_](https://www.math.univ-toulouse.fr/~rcampos/ALPE/next_event.html), {{< lang fr >}}Institut Montpelliérain Alexander Grothendieck,{{< /lang >}} Montpellier.

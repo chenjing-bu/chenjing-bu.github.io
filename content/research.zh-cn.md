@@ -1,9 +1,7 @@
 ---
 title: 研究
-lastmod: 2026-02-22
+lastmod: 2026-03-08
 ---
-
-这是我的学术主页.
 
 我目前从事[代数几何](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
 研究, 主要关注[代数叠](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%8F%A0)
@@ -13,8 +11,6 @@ lastmod: 2026-02-22
 以及[几何表示论](https://www.bananaspace.org/wiki/%E5%87%A0%E4%BD%95%E8%A1%A8%E7%A4%BA%E8%AE%BA)
 与[导出代数几何](https://www.bananaspace.org/wiki/%E5%AF%BC%E5%87%BA%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
 的相关方面.
-
-另见我的[学术报告列表](/zh-cn/talks).
 
 {{< toc >}}
 
@@ -78,12 +74,6 @@ lastmod: 2026-02-22
   147 页, 2023. 已由新文替代.
   ([arXiv](https://arxiv.org/abs/2302.00038))
 
-## 博士论文
-
-- Orthosymplectic enumerative geometry.\
-  博士论文, 2025.
-  ([pdf](/pdf/thesis.pdf))
-
 ## 撰写中
 
 - Semiorthogonal decompositions for stacks.\
@@ -91,6 +81,12 @@ lastmod: 2026-02-22
 
 - Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
   与 A. **Ibáñez Núñez**, T. **Kinjo** 合作.
+
+## 博士论文
+
+- Orthosymplectic enumerative geometry.\
+  博士论文, 2025.
+  ([pdf](/pdf/thesis.pdf))
 
 ## 其他作品
 
@@ -106,6 +102,7 @@ lastmod: 2026-02-22
 - 示性类.\
   2019 年.
   ([香蕉空间](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E7%A4%BA%E6%80%A7%E7%B1%BB))
+  ([pdf](/pdf/CC.pdf))
 
 ### 课程项目
 
