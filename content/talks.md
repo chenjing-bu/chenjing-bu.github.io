@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2026-03-12
+lastmod: 2026-04-16
 ---
 
 The following is a complete list of my research talks.
@@ -8,16 +8,20 @@ The following is a complete list of my research talks.
 ## 2026
 
 - Intrinsic Donaldson--Thomas theory.\
+  23 April 2026, Max Planck Institute for Mathematics, Bonn.
+
+- Intrinsic Donaldson--Thomas theory.\
   14 April 2026, online, Zhejiang University.
 
 - Semiorthogonal decompositions for stacks.\
-  9 April 2026, KIAS, Seoul.
+  9 April 2026, Korea Institute for Advanced Study, Seoul.
 
 - Semiorthogonal decompositions for stacks.\
   24 March 2026, [_Séminaire ALPE_](https://www.math.univ-toulouse.fr/~rcampos/ALPE/next_event.html), {{< lang fr >}}Institut Montpelliérain Alexander Grothendieck,{{< /lang >}} Montpellier.
 
 - Stacks and combinatorics in enumerative geometry.
-  ([slides](/pdf/20260106-iccm.pdf))\
+  ([slides](/pdf/20260106-iccm.pdf))
+  ([notes](/pdf/sceg.pdf))\
   6 January 2026, [_International Congress of Chinese Mathematicians_](https://2025iccm.simis.cn/iccm2025/site/), Shanghai.
 
 ## 2025
@@ -29,7 +33,7 @@ The following is a complete list of my research talks.
   4 November 2025, University of Oxford.
 
 - Counting sheaves on curves.\
-  29 September 2025, KIAS, Seoul.
+  29 September 2025, Korea Institute for Advanced Study, Seoul.
 
 - Intrinsic cohomological integrality.\
   24 September 2025,
@@ -45,7 +49,7 @@ The following is a complete list of my research talks.
   28 June 2025, _Reunion conference_, Tsinghua University.
 
 - The component lattice.\
-  16 June 2025, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), KIAS, Seoul.
+  16 June 2025, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), Korea Institute for Advanced Study, Seoul.
 
 - Orientifold Donaldson--Thomas theory.\
   20 May 2025, Imperial College London.
@@ -57,7 +61,7 @@ The following is a complete list of my research talks.
   24 April 2025, online, Kansas University.
 
 - Intrinsic enumerative geometry.\
-  8 April 2025, Kavli IPMU, Kashiwa.
+  8 April 2025, Kavli Institute for the Physics and Mathematics of the Universe, Kashiwa.
 
 - Intrinsic enumerative geometry.\
   19 March 2025, University of Edinburgh.

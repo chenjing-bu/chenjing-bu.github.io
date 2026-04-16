@@ -11,7 +11,7 @@ author = 'Chenjing Bu'
 altAuthor = '<span lang="zh-cn">卜辰璟</span>'
 description = 'Chenjing Bu’s homepage'
 katex = true
-dateFormat = '2 Jan 2006'
+dateFormat = '2 January 2006'
 customSCSS = ['scss/custom.scss']
 
 # use CSS for syntax highlighting

@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2026-03-12
+lastmod: 2026-04-16
 ---
 
 以下是我的学术报告列表.
@@ -8,16 +8,20 @@ lastmod: 2026-03-12
 ## 2026
 
 - Intrinsic Donaldson--Thomas theory.\
+  2026 年 4 月 23 日, Max Planck Institute for Mathematics, Bonn.
+
+- Intrinsic Donaldson--Thomas theory.\
   2026 年 4 月 14 日, 线上, 浙江大学.
 
 - Semiorthogonal decompositions for stacks.\
-  2026 年 4 月 9 日, KIAS, 首尔.
+  2026 年 4 月 9 日, Korea Institute for Advanced Study, 首尔.
 
 - Semiorthogonal decompositions for stacks.\
   2026 年 3 月 24 日, [_Séminaire ALPE_](https://www.math.univ-toulouse.fr/~rcampos/ALPE/next_event.html), {{< lang fr >}}Institut Montpelliérain Alexander Grothendieck,{{< /lang >}} Montpellier.
 
 - Stacks and combinatorics in enumerative geometry.
-  ([幻灯片](/pdf/20260106-iccm.pdf))\
+  ([幻灯片](/pdf/20260106-iccm.pdf))
+  ([讲义](/pdf/sceg.pdf))\
   2026 年 1 月 6 日, [世界华人数学家大会](https://2025iccm.simis.cn/iccm2025/site/), 上海.
 
 ## 2025
@@ -29,7 +33,7 @@ lastmod: 2026-03-12
   2025 年 11 月 4 日, University of Oxford.
 
 - Counting sheaves on curves.\
-  2025 年 9 月 29 日, KIAS, 首尔.
+  2025 年 9 月 29 日, Korea Institute for Advanced Study, 首尔.
 
 - Intrinsic cohomological integrality.\
   2025 年 9 月 24 日,
@@ -44,7 +48,7 @@ lastmod: 2026-03-12
   2025 年 6 月 28 日, 清华数学人重聚会议, 清华大学.
 
 - The component lattice.\
-  2025 年 6 月 16 日, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), KIAS, 首尔.
+  2025 年 6 月 16 日, [_Moduli spaces, virtual invariants and shifted symplectic structures_](http://events.kias.re.kr/h/WMV25/), Korea Institute for Advanced Study, 首尔.
 
 - Orientifold Donaldson--Thomas theory.\
   2025 年 5 月 20 日, Imperial College London.
@@ -56,7 +60,7 @@ lastmod: 2026-03-12
   2025 年 4 月 24 日, 线上, Kansas University.
 
 - Intrinsic enumerative geometry.\
-  2025 年 4 月 8 日, Kavli IPMU.
+  2025 年 4 月 8 日, Kavli Institute for the Physics and Mathematics of the Universe, 柏市.
 
 - Intrinsic enumerative geometry.\
   2025 年 3 月 19 日, University of Edinburgh.

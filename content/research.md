@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2026-03-08
+lastmod: 2026-04-16
 ---
 
 I work in algebraic geometry,
@@ -14,7 +14,8 @@ and derived algebraic geometry.
 
 ## Publications
 
-- C. **Bu** (2025). A motivic integral identity for $(-1)$-shifted symplectic stacks.\
+- C. **Bu** (2025).
+  A motivic integral identity for $(-1)$-shifted symplectic stacks.\
   {{<dimmed>}}
   _Moduli_ 2, e16, 38 pp.
   {{</dimmed>}}\
@@ -22,7 +23,8 @@ and derived algebraic geometry.
   ([zbMATH](https://zbmath.org/8137200))
   ([arXiv](https://arxiv.org/abs/2405.10092))
 
-- C. **Bu** (2023). Counting sheaves on curves.\
+- C. **Bu** (2023).
+  Counting sheaves on curves.\
   {{<dimmed>}}
   _Advances in Mathematics_ 434, 109334, 87 pp.
   {{</dimmed>}}\
@@ -32,58 +34,71 @@ and derived algebraic geometry.
 
 ## Preprints
 
-- Proper moduli spaces of orthosymplectic complexes.\
+- C. **Bu**.
+  Stacks and combinatorics in enumerative geometry.\
+  Survey article, 17 pp., 2026.
+  ([pdf](/pdf/sceg.pdf))
+
+- C. **Bu**.
+  Proper moduli spaces of orthosymplectic complexes.\
   9 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2512.24275))
 
-- Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
-  With Y.-H. **Kiem**.\
+- C. **Bu**, Y.-H. **Kiem**.\
+  Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
   43 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2511.14647))
 
-- Modules and generalizations of Joyce vertex algebras.\
+- C. **Bu**.
+  Modules and generalizations of Joyce vertex algebras.\
   48 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2506.00289))
 
-- Orthosymplectic Donaldson--Thomas theory.\
+- C. **Bu**.
+  Orthosymplectic Donaldson--Thomas theory.\
   55 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2503.20667))
 
-- Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
-  With A. **Ibáñez Núñez** and T. **Kinjo**.\
+- C. **Bu**, A. **Ibáñez Núñez**, T. **Kinjo**.\
+  Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
   61 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2502.20515))
 
-- Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
-  With D. **Halpern-Leistner**, A. **Ibáñez Núñez**, and T. **Kinjo**.\
+- C. **Bu**, D. **Halpern-Leistner**, A. **Ibáñez Núñez**, T. **Kinjo**.\
+  Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
   68 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2502.13892))
 
-- Cohomology of symmetric stacks.\
-  With B. **Davison**, A. **Ibáñez Núñez**, T. **Kinjo**, and T. **Pădurariu**.\
+- C. **Bu**, B. **Davison**, A. **Ibáñez Núñez**, T. **Kinjo**, T. **Pădurariu**.\
+  Cohomology of symmetric stacks.\
   131 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2502.04253))
 
-- Enumerative invariants in self-dual categories. II. Homological invariants.\
+### Deprecated works
+
+- C. **Bu**.
+  Enumerative invariants in self-dual categories. II. Homological invariants.\
   122 pp., 2023.
   ([arXiv](https://arxiv.org/abs/2309.00056))
 
-- Enumerative invariants in self-dual categories. I. Motivic invariants.\
+- C. **Bu**.
+  Enumerative invariants in self-dual categories. I. Motivic invariants.\
   147 pp., 2023.
-  Superseded by a new work.
   ([arXiv](https://arxiv.org/abs/2302.00038))
+
 
 ## Works in progress
 
-- Semiorthogonal decompositions for stacks.\
-  With T. **Pădurariu** and Y. **Toda**.
+- C. **Bu**, T. **Pădurariu**, Y. **Toda**.\
+  Semiorthogonal decompositions for stacks.
 
-- Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.\
-  With A. **Ibáñez Núñez** and T. **Kinjo**.
+- C. **Bu**, A. **Ibáñez Núñez**, T. **Kinjo**.\
+  Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.
 
 ## Thesis
 
-- Orthosymplectic enumerative geometry.\
+- C. **Bu**.
+  Orthosymplectic enumerative geometry.\
   _PhD thesis_, 2025.
   ([pdf](/pdf/thesis.pdf))
 
@@ -91,16 +106,15 @@ and derived algebraic geometry.
 
 ### Introductory notes
 
-Notes written for reading groups that I organized as an undergraduate.
-
 - Homotopical algebra and homological algebra.\
-  Notes on $\infty$-categories, 89 pp., 2019.
+  (A gentle introduction to $\infty$-categories that some have found helpful.)\
+  89 pp., 2019.
   ([pdf](/pdf/HA.pdf))
   ([web](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%90%8C%E4%BC%A6%E4%BB%A3%E6%95%B0%E4%B8%8E%E5%90%8C%E8%B0%83%E4%BB%A3%E6%95%B0), in Chinese)
 
 - {{< lang zh-cn >}}示性类{{< /lang >}}
   \[Characteristic classes\].\
-  2019.
+  120 pp., 2019.
   ([pdf](/pdf/CC.pdf))
   ([web](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E7%A4%BA%E6%80%A7%E7%B1%BB))
 
