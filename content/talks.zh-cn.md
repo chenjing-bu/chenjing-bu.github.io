@@ -1,14 +1,17 @@
 ---
 title: 学术报告列表
-lastmod: 2026-04-16
+lastmod: 2026-04-26
 ---
 
 以下是我的学术报告列表.
 
 ## 2026
 
+- Semiorthogonal decompositions for stacks.\
+  2026 年 5 月 13 日, University of Warwick.
+
 - Intrinsic Donaldson--Thomas theory.\
-  2026 年 4 月 23 日, Max Planck Institute for Mathematics, Bonn.
+  2026 年 4 月 23 日, University of Bonn.
 
 - Intrinsic Donaldson--Thomas theory.\
   2026 年 4 月 14 日, 线上, 浙江大学.

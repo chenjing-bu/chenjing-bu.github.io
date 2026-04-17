@@ -1,20 +1,29 @@
 ---
 title: 研究
-lastmod: 2026-04-16
+lastmod: 2026-04-26
 ---
 
 我目前从事[代数几何](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
 研究, 主要关注[代数叠](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%8F%A0)
-的理论及
+的理论,
 [Donaldson--Thomas 不变量](https://www.bananaspace.org/wiki/Donaldson%E2%80%93Thomas_%E4%B8%8D%E5%8F%98%E9%87%8F)
-等计数不变量,
+等计数不变量及其范畴化,
 以及计数几何观点下的[几何表示论](https://www.bananaspace.org/wiki/%E5%87%A0%E4%BD%95%E8%A1%A8%E7%A4%BA%E8%AE%BA)
 与[导出代数几何](https://www.bananaspace.org/wiki/%E5%AF%BC%E5%87%BA%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
 的相关方面.
 
+另见我的[学术报告列表](/talks).
+
 {{< toc >}}
 
 ## 出版论文
+
+- C. **Bu**.
+  Modules and generalizations of Joyce vertex algebras.\
+  {{<dimmed>}}
+  即将刊于 _Forum of Mathematics, Sigma_.
+  {{</dimmed>}}\
+  ([arXiv](https://arxiv.org/abs/2506.00289))
 
 - C. **Bu** (2025).
   A motivic integral identity for $(-1)$-shifted symplectic stacks.\
@@ -52,11 +61,6 @@ lastmod: 2026-04-16
   ([arXiv](https://arxiv.org/abs/2511.14647))
 
 - C. **Bu**.
-  Modules and generalizations of Joyce vertex algebras.\
-  48 页, 2025.
-  ([arXiv](https://arxiv.org/abs/2506.00289))
-
-- C. **Bu**.
   Orthosymplectic Donaldson--Thomas theory.\
   55 页, 2025.
   ([arXiv](https://arxiv.org/abs/2503.20667))
@@ -76,7 +80,7 @@ lastmod: 2026-04-16
   131 页, 2025.
   ([arXiv](https://arxiv.org/abs/2502.04253))
 
-### 已弃置
+### 已弃用
 
 - C. **Bu**.
   Enumerative invariants in self-dual categories. II. Homological invariants.\

@@ -1,18 +1,27 @@
 ---
 title: Research
-lastmod: 2026-04-16
+lastmod: 2026-04-26
 ---
 
 I work in algebraic geometry,
 with primary interests in the theory of algebraic stacks,
 enumerative invariants such as
-Donaldson--Thomas invariants,
+Donaldson--Thomas invariants and their categorification,
 and related aspects of geometric representation theory
 and derived algebraic geometry.
+
+See also a list of my [talks](/talks).
 
 {{< toc >}}
 
 ## Publications
+
+- C. **Bu**.
+  Modules and generalizations of Joyce vertex algebras.\
+  {{<dimmed>}}
+  To appear in _Forum of Mathematics, Sigma_.
+  {{</dimmed>}}\
+  ([arXiv](https://arxiv.org/abs/2506.00289))
 
 - C. **Bu** (2025).
   A motivic integral identity for $(-1)$-shifted symplectic stacks.\
@@ -48,11 +57,6 @@ and derived algebraic geometry.
   Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
   43 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2511.14647))
-
-- C. **Bu**.
-  Modules and generalizations of Joyce vertex algebras.\
-  48 pp., 2025.
-  ([arXiv](https://arxiv.org/abs/2506.00289))
 
 - C. **Bu**.
   Orthosymplectic Donaldson--Thomas theory.\

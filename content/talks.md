@@ -1,14 +1,17 @@
 ---
 title: List of research talks
-lastmod: 2026-04-16
+lastmod: 2026-04-26
 ---
 
 The following is a complete list of my research talks.
 
 ## 2026
 
+- Semiorthogonal decompositions for stacks.\
+  13 May 2026, University of Warwick.
+
 - Intrinsic Donaldson--Thomas theory.\
-  23 April 2026, Max Planck Institute for Mathematics, Bonn.
+  23 April 2026, University of Bonn.
 
 - Intrinsic Donaldson--Thomas theory.\
   14 April 2026, online, Zhejiang University.
