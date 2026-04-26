@@ -12,7 +12,7 @@ lastmod: 2026-04-26
 与[导出代数几何](https://www.bananaspace.org/wiki/%E5%AF%BC%E5%87%BA%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
 的相关方面.
 
-另见我的[学术报告列表](/talks).
+另见我的[学术报告列表](/zh-cn/talks).
 
 {{< toc >}}
 
