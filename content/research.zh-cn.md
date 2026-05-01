@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2026-04-26
+lastmod: 2026-05-01
 ---
 
 我目前从事[代数几何](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
@@ -46,11 +46,6 @@ lastmod: 2026-04-26
 ## 预印论文
 
 - C. **Bu**.
-  Stacks and combinatorics in enumerative geometry.\
-  综述, 17 页, 2026.
-  ([pdf](/pdf/sceg.pdf))
-
-- C. **Bu**.
   Proper moduli spaces of orthosymplectic complexes.\
   9 页, 2025.
   ([arXiv](https://arxiv.org/abs/2512.24275))
@@ -80,7 +75,14 @@ lastmod: 2026-04-26
   131 页, 2025.
   ([arXiv](https://arxiv.org/abs/2502.04253))
 
-### 已弃用
+### 综述
+
+- C. **Bu**.
+  Stacks and combinatorics in enumerative geometry.\
+  17 页, 2026.
+  ([pdf](/pdf/sceg.pdf))
+
+### 弃用
 
 - C. **Bu**.
   Enumerative invariants in self-dual categories. II. Homological invariants.\

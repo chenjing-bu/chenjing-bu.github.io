@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2026-04-26
+lastmod: 2026-05-01
 ---
 
 I work in algebraic geometry,
@@ -44,11 +44,6 @@ See also a list of my [talks](/talks).
 ## Preprints
 
 - C. **Bu**.
-  Stacks and combinatorics in enumerative geometry.\
-  Survey article, 17 pp., 2026.
-  ([pdf](/pdf/sceg.pdf))
-
-- C. **Bu**.
   Proper moduli spaces of orthosymplectic complexes.\
   9 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2512.24275))
@@ -78,6 +73,13 @@ See also a list of my [talks](/talks).
   131 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2502.04253))
 
+### Survey article
+
+- C. **Bu**.
+  Stacks and combinatorics in enumerative geometry.\
+  17 pp., 2026.
+  ([pdf](/pdf/sceg.pdf))
+
 ### Deprecated works
 
 - C. **Bu**.
@@ -103,7 +105,7 @@ See also a list of my [talks](/talks).
 
 - C. **Bu**.
   Orthosymplectic enumerative geometry.\
-  _PhD thesis_, 2025.
+  PhD thesis, 2025.
   ([pdf](/pdf/thesis.pdf))
 
 ## Other writings
