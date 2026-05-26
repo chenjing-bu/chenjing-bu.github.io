@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2026-05-01
+lastmod: 2026-05-26
 ---
 
 I work in algebraic geometry,
@@ -43,6 +43,11 @@ See also a list of my [talks](/talks).
 
 ## Preprints
 
+- C. **Bu**, T. **Pădurariu**, Y. **Toda**.\
+  Semiorthogonal decompositions for stacks.\
+  64 pp., 2026.
+  ([arXiv](https://arxiv.org/abs/2605.25976))
+
 - C. **Bu**.
   Proper moduli spaces of orthosymplectic complexes.\
   9 pp., 2025.
@@ -73,7 +78,12 @@ See also a list of my [talks](/talks).
   131 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2502.04253))
 
-### Survey article
+### Survey articles
+
+- C. **Bu**.
+  What is a vertex algebra?\
+  10 pp., 2026.
+  ([pdf](/pdf/vertex.pdf))
 
 - C. **Bu**.
   Stacks and combinatorics in enumerative geometry.\
@@ -91,15 +101,6 @@ See also a list of my [talks](/talks).
   Enumerative invariants in self-dual categories. I. Motivic invariants.\
   147 pp., 2023.
   ([arXiv](https://arxiv.org/abs/2302.00038))
-
-
-## Works in progress
-
-- C. **Bu**, T. **Pădurariu**, Y. **Toda**.\
-  Semiorthogonal decompositions for stacks.
-
-- C. **Bu**, A. **Ibáñez Núñez**, T. **Kinjo**.\
-  Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.
 
 ## Thesis
 

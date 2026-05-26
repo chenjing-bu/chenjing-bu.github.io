@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2026-04-26
+lastmod: 2026-05-26
 ---
 
 以下是我的学术报告列表.
@@ -20,7 +20,7 @@ lastmod: 2026-04-26
   2026 年 4 月 9 日, Korea Institute for Advanced Study, 首尔.
 
 - Semiorthogonal decompositions for stacks.\
-  2026 年 3 月 24 日, [_Séminaire ALPE_](https://www.math.univ-toulouse.fr/~rcampos/ALPE/next_event.html), {{< lang fr >}}Institut Montpelliérain Alexander Grothendieck,{{< /lang >}} Montpellier.
+  2026 年 3 月 24 日, [_Séminaire ALPE_](https://www.math.univ-toulouse.fr/~rcampos/ALPE/2026-03.html), {{< lang fr >}}Institut Montpelliérain Alexander Grothendieck,{{< /lang >}} Montpellier.
 
 - Stacks and combinatorics in enumerative geometry.
   ([幻灯片](/pdf/20260106-iccm.pdf))

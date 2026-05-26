@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2026-05-01
+lastmod: 2026-05-26
 ---
 
 我目前从事[代数几何](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
@@ -45,68 +45,70 @@ lastmod: 2026-05-01
 
 ## 预印论文
 
+- C. **Bu**, T. **Pădurariu**, Y. **Toda**.\
+  Semiorthogonal decompositions for stacks.\
+  2026 年, 64 页.
+  ([arXiv](https://arxiv.org/abs/2605.25976))
+
 - C. **Bu**.
   Proper moduli spaces of orthosymplectic complexes.\
-  9 页, 2025.
+  2025 年, 9 页.
   ([arXiv](https://arxiv.org/abs/2512.24275))
 
 - C. **Bu**, Y.-H. **Kiem**.\
   Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
-  43 页, 2025.
+  2025 年, 43 页.
   ([arXiv](https://arxiv.org/abs/2511.14647))
 
 - C. **Bu**.
   Orthosymplectic Donaldson--Thomas theory.\
-  55 页, 2025.
+  2025 年, 55 页.
   ([arXiv](https://arxiv.org/abs/2503.20667))
 
 - C. **Bu**, A. **Ibáñez Núñez**, T. **Kinjo**.\
   Intrinsic Donaldson--Thomas theory. II. Stability measures and invariants.\
-  61 页, 2025.
+  2025 年, 61 页.
   ([arXiv](https://arxiv.org/abs/2502.20515))
 
 - C. **Bu**, D. **Halpern-Leistner**, A. **Ibáñez Núñez**, T. **Kinjo**.\
   Intrinsic Donaldson--Thomas theory. I. Component lattices of stacks.\
-  68 页, 2025.
+  2025 年, 68 页.
   ([arXiv](https://arxiv.org/abs/2502.13892))
 
 - C. **Bu**, B. **Davison**, A. **Ibáñez Núñez**, T. **Kinjo**, T. **Pădurariu**.\
   Cohomology of symmetric stacks.\
-  131 页, 2025.
+  2025 年, 131 页.
   ([arXiv](https://arxiv.org/abs/2502.04253))
 
 ### 综述
 
 - C. **Bu**.
+  What is a vertex algebra?\
+  2026 年, 10 页.
+  ([pdf](/pdf/vertex.pdf))
+
+- C. **Bu**.
   Stacks and combinatorics in enumerative geometry.\
-  17 页, 2026.
+  2026 年, 17 页.
   ([pdf](/pdf/sceg.pdf))
 
-### 弃用
+### 弃用论文
 
 - C. **Bu**.
   Enumerative invariants in self-dual categories. II. Homological invariants.\
-  122 页, 2023.
+  2023 年, 122 页.
   ([arXiv](https://arxiv.org/abs/2309.00056))
 
 - C. **Bu**.
   Enumerative invariants in self-dual categories. I. Motivic invariants.\
-  147 页, 2023.
+  2023 年, 147 页.
   ([arXiv](https://arxiv.org/abs/2302.00038))
-
-## 撰写中
-
-- C. **Bu**, T. **Pădurariu**, Y. **Toda**.\
-  Semiorthogonal decompositions for stacks.
-
-- C. **Bu**, A. **Ibáñez Núñez**, T. **Kinjo**.\
-  Intrinsic Donaldson--Thomas theory. III. Wall-crossing and applications.
 
 ## 博士论文
 
 - C. **Bu**.
   Orthosymplectic enumerative geometry.\
-  博士论文, 2025.
+  博士论文, 2025 年.
   ([pdf](/pdf/thesis.pdf))
 
 ## 其他作品
