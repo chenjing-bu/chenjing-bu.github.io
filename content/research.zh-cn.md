@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2026-05-26
+lastmod: 2026-05-28
 ---
 
 我目前从事[代数几何](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
@@ -18,17 +18,18 @@ lastmod: 2026-05-26
 
 ## 出版论文
 
-- C. **Bu**.
+- C. **Bu** (2026).
   Modules and generalizations of Joyce vertex algebras.\
   {{<dimmed>}}
-  即将刊于 _Forum of Mathematics, Sigma_.
+  _Forum of Mathematics, Sigma_ 14: e82, 41 页.
   {{</dimmed>}}\
+  ([doi](https://doi.org/10.1017/fms.2026.10229))
   ([arXiv](https://arxiv.org/abs/2506.00289))
 
 - C. **Bu** (2025).
   A motivic integral identity for $(-1)$-shifted symplectic stacks.\
   {{<dimmed>}}
-  _Moduli_ 2, e16, 38 页.
+  _Moduli_ 2: e16, 38 页.
   {{</dimmed>}}\
   ([doi](https://doi.org/10.1112/mod.2025.10009))
   ([zbMATH](https://zbmath.org/8137200))
@@ -37,7 +38,7 @@ lastmod: 2026-05-26
 - C. **Bu** (2023).
   Counting sheaves on curves.\
   {{<dimmed>}}
-  _Advances in Mathematics_ 434, 109334, 87 页.
+  _Advances in Mathematics_ 434: 109334, 87 页.
   {{</dimmed>}}\
   ([doi](https://doi.org/10.1016/j.aim.2023.109334))
   ([zbMATH](https://zbmath.org/7765302))
