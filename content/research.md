@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2026-05-28
+lastmod: 2026-06-13
 ---
 
 I work in algebraic geometry,
@@ -19,15 +19,16 @@ See also a list of my [talks](/talks).
 - C. **Bu** (2026).
   Modules and generalizations of Joyce vertex algebras.\
   {{<dimmed>}}
-  _Forum of Mathematics, Sigma_ 14: e82, 41 pp.
+  _Forum of Mathematics, Sigma_ 14, e82, 41 pp.
   {{</dimmed>}}\
   ([doi](https://doi.org/10.1017/fms.2026.10229))
+  ([zbMATH](https://zbmath.org/8207346))
   ([arXiv](https://arxiv.org/abs/2506.00289))
 
 - C. **Bu** (2025).
   A motivic integral identity for $(-1)$-shifted symplectic stacks.\
   {{<dimmed>}}
-  _Moduli_ 2: e16, 38 pp.
+  _Moduli_ 2, e16, 38 pp.
   {{</dimmed>}}\
   ([doi](https://doi.org/10.1112/mod.2025.10009))
   ([zbMATH](https://zbmath.org/8137200))
@@ -36,7 +37,7 @@ See also a list of my [talks](/talks).
 - C. **Bu** (2023).
   Counting sheaves on curves.\
   {{<dimmed>}}
-  _Advances in Mathematics_ 434: 109334, 87 pp.
+  _Advances in Mathematics_ 434, 109334, 87 pp.
   {{</dimmed>}}\
   ([doi](https://doi.org/10.1016/j.aim.2023.109334))
   ([zbMATH](https://zbmath.org/7765302))
@@ -115,7 +116,7 @@ See also a list of my [talks](/talks).
 ### Introductory notes
 
 - Homotopical algebra and homological algebra.\
-  (A gentle introduction to $\infty$-categories that some have found helpful.)\
+  (A gentle introduction to $\infty$-categories.)\
   89 pp., 2019.
   ([pdf](/pdf/HA.pdf))
   ([web](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%90%8C%E4%BC%A6%E4%BB%A3%E6%95%B0%E4%B8%8E%E5%90%8C%E8%B0%83%E4%BB%A3%E6%95%B0), in Chinese)
