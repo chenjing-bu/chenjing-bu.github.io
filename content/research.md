@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2026-06-13
+lastmod: 2026-06-17
 ---
 
 I work in algebraic geometry,
@@ -15,6 +15,13 @@ See also a list of my [talks](/talks).
 {{< toc >}}
 
 ## Publications
+
+- C. **Bu**.
+  Proper moduli spaces of orthosymplectic complexes.\
+  {{<dimmed>}}
+  _Bulletin of the London Mathematical Society_, to appear.
+  {{</dimmed>}}\
+  ([arXiv](https://arxiv.org/abs/2512.24275))
 
 - C. **Bu** (2026).
   Modules and generalizations of Joyce vertex algebras.\
@@ -49,11 +56,6 @@ See also a list of my [talks](/talks).
   Semiorthogonal decompositions for stacks.\
   64 pp., 2026.
   ([arXiv](https://arxiv.org/abs/2605.25976))
-
-- C. **Bu**.
-  Proper moduli spaces of orthosymplectic complexes.\
-  9 pp., 2025.
-  ([arXiv](https://arxiv.org/abs/2512.24275))
 
 - C. **Bu**, Y.-H. **Kiem**.\
   Generalized intersection pairings on moduli spaces of vector bundles over a curve.\

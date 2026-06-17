@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2026-06-13
+lastmod: 2026-06-17
 ---
 
 我目前从事[代数几何](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
@@ -17,6 +17,13 @@ lastmod: 2026-06-13
 {{< toc >}}
 
 ## 出版论文
+
+- C. **Bu**.
+  Proper moduli spaces of orthosymplectic complexes.\
+  {{<dimmed>}}
+  即将刊于 _Bulletin of the London Mathematical Society_.
+  {{</dimmed>}}\
+  ([arXiv](https://arxiv.org/abs/2512.24275))
 
 - C. **Bu** (2026).
   Modules and generalizations of Joyce vertex algebras.\
@@ -51,11 +58,6 @@ lastmod: 2026-06-13
   Semiorthogonal decompositions for stacks.\
   2026 年, 64 页.
   ([arXiv](https://arxiv.org/abs/2605.25976))
-
-- C. **Bu**.
-  Proper moduli spaces of orthosymplectic complexes.\
-  2025 年, 9 页.
-  ([arXiv](https://arxiv.org/abs/2512.24275))
 
 - C. **Bu**, Y.-H. **Kiem**.\
   Generalized intersection pairings on moduli spaces of vector bundles over a curve.\
