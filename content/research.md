@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2026-06-17
+lastmod: 2026-07-14
 ---
 
 I work in algebraic geometry,
@@ -16,11 +16,12 @@ See also a list of my [talks](/talks).
 
 ## Publications
 
-- C. **Bu**.
+- C. **Bu** (2026).
   Proper moduli spaces of orthosymplectic complexes.\
   {{<dimmed>}}
-  _Bulletin of the London Mathematical Society_, to appear.
+  _Bulletin of the London Mathematical Society_ 58 (7), e70447, 9 pp.
   {{</dimmed>}}\
+  ([doi](https://doi.org/10.1112/blms.70447))
   ([arXiv](https://arxiv.org/abs/2512.24275))
 
 - C. **Bu** (2026).

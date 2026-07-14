@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2026-06-17
+lastmod: 2026-07-14
 ---
 
 我目前从事[代数几何](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
@@ -18,11 +18,12 @@ lastmod: 2026-06-17
 
 ## 出版论文
 
-- C. **Bu**.
+- C. **Bu** (2026).
   Proper moduli spaces of orthosymplectic complexes.\
   {{<dimmed>}}
-  即将刊于 _Bulletin of the London Mathematical Society_.
+  _Bulletin of the London Mathematical Society_ 58 (7), e70447, 9 页.
   {{</dimmed>}}\
+  ([doi](https://doi.org/10.1112/blms.70447))
   ([arXiv](https://arxiv.org/abs/2512.24275))
 
 - C. **Bu** (2026).
