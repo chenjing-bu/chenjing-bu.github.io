@@ -1,11 +1,17 @@
 ---
 title: 学术报告列表
-lastmod: 2026-05-26
+lastmod: 2026-07-28
 ---
 
 以下是我的学术报告列表.
 
 ## 2026
+
+- 叠上的层.\
+  2026 年 8 月 21 日, 清华数学人重聚会议, 清华大学.
+
+- Semiorthogonal decompositions for stacks.\
+  2026 年 8 月 13 日, _Geometric representation theory and related topics_, 昆明.
 
 - Semiorthogonal decompositions for stacks.\
   2026 年 5 月 13 日, University of Warwick.

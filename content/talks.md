@@ -1,11 +1,18 @@
 ---
 title: List of research talks
-lastmod: 2026-05-26
+lastmod: 2026-07-28
 ---
 
 The following is a complete list of my research talks.
 
 ## 2026
+
+- {{< lang zh-cn >}}叠上的层{{< /lang >}}
+  \[Sheaves on stacks\].\
+  21 August 2026, _Reunion conference_, Tsinghua University.
+
+- Semiorthogonal decompositions for stacks.\
+  13 August 2026, _Geometric representation theory and related topics_, Kunming.
 
 - Semiorthogonal decompositions for stacks.\
   13 May 2026, University of Warwick.
