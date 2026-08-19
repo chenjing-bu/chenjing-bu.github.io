@@ -1,14 +1,17 @@
 ---
 title: 学术报告列表
-lastmod: 2026-07-28
+lastmod: 2026-08-19
 ---
 
 以下是我的学术报告列表.
 
 ## 2026
 
+- The component lattice.\
+  2026 年 9 月 8 日, [_Oxford algebraic geometry days_](https://sites.google.com/view/oxfordalgebraicgeometrydays/home), University of Oxford.
+
 - 叠上的层.\
-  2026 年 8 月 21 日, 清华数学人重聚会议, 清华大学.
+  2026 年 8 月 21 日, 清华数学青年学者论坛, 清华大学.
 
 - Semiorthogonal decompositions for stacks.\
   2026 年 8 月 13 日, _Geometric representation theory and related topics_, 昆明.

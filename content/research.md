@@ -1,14 +1,12 @@
 ---
 title: Research
-lastmod: 2026-07-14
+lastmod: 2026-08-19
 ---
 
-I work in algebraic geometry,
+I work in algebraic geometry and geometric representation theory,
 with primary interests in the theory of algebraic stacks,
-enumerative invariants such as
-Donaldson--Thomas invariants and their categorification,
-and related aspects of geometric representation theory
-and derived algebraic geometry.
+their geometric invariants such as cohomology and categories of sheaves,
+and algebraic structures and enumerative invariants constructed from them.
 
 See also a list of my [talks](/talks).
 
@@ -22,6 +20,7 @@ See also a list of my [talks](/talks).
   _Bulletin of the London Mathematical Society_ 58 (7), e70447, 9 pp.
   {{</dimmed>}}\
   ([doi](https://doi.org/10.1112/blms.70447))
+  ([zbMATH](https://zbmath.org/8227329))
   ([arXiv](https://arxiv.org/abs/2512.24275))
 
 - C. **Bu** (2026).

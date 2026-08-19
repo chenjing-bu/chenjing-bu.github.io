@@ -1,4 +1,4 @@
-I am a mathematician working in algebraic geometry.
+I am a mathematician working in algebraic geometry and geometric representation theory.
 
 - [Blog](/posts)
 - [Research](/research)

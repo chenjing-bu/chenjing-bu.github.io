@@ -1,16 +1,14 @@
 ---
 title: 研究
-lastmod: 2026-07-14
+lastmod: 2026-08-19
 ---
 
-我目前从事[代数几何](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
-研究, 主要关注[代数叠](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%8F%A0)
+我的主要研究方向是[代数几何](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
+与[几何表示论](https://www.bananaspace.org/wiki/%E5%87%A0%E4%BD%95%E8%A1%A8%E7%A4%BA%E8%AE%BA).
+我主要关注[代数叠](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%8F%A0)
 的理论,
-[Donaldson--Thomas 不变量](https://www.bananaspace.org/wiki/Donaldson%E2%80%93Thomas_%E4%B8%8D%E5%8F%98%E9%87%8F)
-等计数不变量及其范畴化,
-以及计数几何观点下的[几何表示论](https://www.bananaspace.org/wiki/%E5%87%A0%E4%BD%95%E8%A1%A8%E7%A4%BA%E8%AE%BA)
-与[导出代数几何](https://www.bananaspace.org/wiki/%E5%AF%BC%E5%87%BA%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
-的相关方面.
+包括叠的上同调､层范畴等几何不变量,
+以及由之构造的代数结构与计数不变量.
 
 另见我的[学术报告列表](/zh-cn/talks).
 
@@ -24,6 +22,7 @@ lastmod: 2026-07-14
   _Bulletin of the London Mathematical Society_ 58 (7), e70447, 9 页.
   {{</dimmed>}}\
   ([doi](https://doi.org/10.1112/blms.70447))
+  ([zbMATH](https://zbmath.org/8227329))
   ([arXiv](https://arxiv.org/abs/2512.24275))
 
 - C. **Bu** (2026).
