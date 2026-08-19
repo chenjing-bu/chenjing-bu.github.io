@@ -11,8 +11,9 @@ The following is a complete list of my research talks.
   8 September 2026, [_Oxford algebraic geometry days_](https://sites.google.com/view/oxfordalgebraicgeometrydays/home), University of Oxford.
 
 - {{< lang zh-cn >}}叠上的层{{< /lang >}}
-  \[Sheaves on stacks\].\
-  21 August 2026, Tsinghua University.
+  \[Sheaves on stacks\].
+  ([slides](/pdf/20260819-tsinghua.pdf))\
+  19 August 2026, Tsinghua University.
 
 - Semiorthogonal decompositions for stacks.\
   13 August 2026, _Geometric representation theory and related topics_, Kunming.

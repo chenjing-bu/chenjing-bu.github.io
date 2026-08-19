@@ -10,8 +10,9 @@ lastmod: 2026-08-19
 - The component lattice.\
   2026 年 9 月 8 日, [_Oxford algebraic geometry days_](https://sites.google.com/view/oxfordalgebraicgeometrydays/home), University of Oxford.
 
-- 叠上的层.\
-  2026 年 8 月 21 日, 清华数学青年学者论坛, 清华大学.
+- 叠上的层.
+  ([幻灯片](/pdf/20260819-tsinghua.pdf))\
+  2026 年 8 月 19 日, 清华数学青年学者论坛, 清华大学.
 
 - Semiorthogonal decompositions for stacks.\
   2026 年 8 月 13 日, _Geometric representation theory and related topics_, 昆明.
