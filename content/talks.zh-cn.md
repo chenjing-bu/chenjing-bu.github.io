@@ -1,6 +1,6 @@
 ---
 title: 学术报告列表
-lastmod: 2026-08-19
+lastmod: 2026-08-22
 ---
 
 以下是我的学术报告列表.
@@ -9,6 +9,9 @@ lastmod: 2026-08-19
 
 - The component lattice.\
   2026 年 9 月 8 日, [_Oxford algebraic geometry days_](https://sites.google.com/view/oxfordalgebraicgeometrydays/home), University of Oxford.
+
+- Langlands duality between weights and stratifications.\
+  2026 年 8 月 26 日, 中国科学院数学与系统科学研究院, 北京.
 
 - 叠上的层.
   ([幻灯片](/pdf/20260819-tsinghua.pdf))\
@@ -35,7 +38,7 @@ lastmod: 2026-08-19
 - Stacks and combinatorics in enumerative geometry.
   ([幻灯片](/pdf/20260106-iccm.pdf))
   ([讲义](/pdf/sceg.pdf))\
-  2026 年 1 月 6 日, [世界华人数学家大会](https://2025iccm.simis.cn/iccm2025/site/), 上海.
+  2026 年 1 月 6 日, [世界华人数学家大会](https://iccm.simis.cn/iccm2025/site/), 上海.
 
 ## 2025
 

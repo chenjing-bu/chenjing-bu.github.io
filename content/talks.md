@@ -1,6 +1,6 @@
 ---
 title: List of research talks
-lastmod: 2026-08-19
+lastmod: 2026-08-22
 ---
 
 The following is a complete list of my research talks.
@@ -9,6 +9,9 @@ The following is a complete list of my research talks.
 
 - The component lattice.\
   8 September 2026, [_Oxford algebraic geometry days_](https://sites.google.com/view/oxfordalgebraicgeometrydays/home), University of Oxford.
+
+- Langlands duality between weights and stratifications.\
+  26 August 2026, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing.
 
 - {{< lang zh-cn >}}叠上的层{{< /lang >}}
   \[Sheaves on stacks\].
@@ -36,7 +39,7 @@ The following is a complete list of my research talks.
 - Stacks and combinatorics in enumerative geometry.
   ([slides](/pdf/20260106-iccm.pdf))
   ([notes](/pdf/sceg.pdf))\
-  6 January 2026, [_International Congress of Chinese Mathematicians_](https://2025iccm.simis.cn/iccm2025/site/), Shanghai.
+  6 January 2026, [_International Congress of Chinese Mathematicians_](https://iccm.simis.cn/iccm2025/site/), Shanghai.
 
 ## 2025
 
