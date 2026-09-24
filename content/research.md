@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2026-08-19
+lastmod: 2026-09-23
 ---
 
 I work in algebraic geometry and geometric representation theory,
@@ -50,6 +50,15 @@ See also a list of my [talks](/talks).
   ([zbMATH](https://zbmath.org/7765302))
   ([arXiv](https://arxiv.org/abs/2208.00927))
 
+### Survey article
+
+- C. **Bu** (2027).
+  What is a vertex algebra?\
+  {{<dimmed>}}
+  To appear in _Notices of the American Mathematical Society_.
+  {{</dimmed>}}\
+  ([pdf](/pdf/vertex.pdf))
+
 ## Preprints
 
 - C. **Bu**, T. **Pădurariu**, Y. **Toda**.\
@@ -82,12 +91,7 @@ See also a list of my [talks](/talks).
   131 pp., 2025.
   ([arXiv](https://arxiv.org/abs/2502.04253))
 
-### Survey articles
-
-- C. **Bu**.
-  What is a vertex algebra?\
-  10 pp., 2026.
-  ([pdf](/pdf/vertex.pdf))
+### Survey article
 
 - C. **Bu**.
   Stacks and combinatorics in enumerative geometry.\

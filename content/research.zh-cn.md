@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2026-08-19
+lastmod: 2026-09-23
 ---
 
 我的主要研究方向是[代数几何](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
@@ -52,6 +52,15 @@ lastmod: 2026-08-19
   ([zbMATH](https://zbmath.org/7765302))
   ([arXiv](https://arxiv.org/abs/2208.00927))
 
+### 综述
+
+- C. **Bu** (2027).
+  What is a vertex algebra?\
+  {{<dimmed>}}
+  即将刊于 _Notices of the American Mathematical Society_.
+  {{</dimmed>}}\
+  ([pdf](/pdf/vertex.pdf))
+
 ## 预印论文
 
 - C. **Bu**, T. **Pădurariu**, Y. **Toda**.\
@@ -85,11 +94,6 @@ lastmod: 2026-08-19
   ([arXiv](https://arxiv.org/abs/2502.04253))
 
 ### 综述
-
-- C. **Bu**.
-  What is a vertex algebra?\
-  2026 年, 10 页.
-  ([pdf](/pdf/vertex.pdf))
 
 - C. **Bu**.
   Stacks and combinatorics in enumerative geometry.\
