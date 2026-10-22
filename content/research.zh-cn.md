@@ -1,6 +1,6 @@
 ---
 title: 研究
-lastmod: 2026-09-23
+lastmod: 2026-10-22
 ---
 
 我的主要研究方向是[代数几何](https://www.bananaspace.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95)
@@ -62,6 +62,11 @@ lastmod: 2026-09-23
   ([pdf](/pdf/vertex.pdf))
 
 ## 预印论文
+
+- C. **Bu**, L. **Hennecart**.\
+  Mackey formulas for smooth stacks.\
+  2026 年, 37 页.
+  ([arXiv](https://arxiv.org/abs/2610.29970))
 
 - C. **Bu**, T. **Pădurariu**, Y. **Toda**.\
   Semiorthogonal decompositions for stacks.\

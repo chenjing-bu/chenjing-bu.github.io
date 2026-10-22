@@ -1,6 +1,6 @@
 ---
 title: Research
-lastmod: 2026-09-23
+lastmod: 2026-10-22
 ---
 
 I work in algebraic geometry and geometric representation theory,
@@ -60,6 +60,11 @@ See also a list of my [talks](/talks).
   ([pdf](/pdf/vertex.pdf))
 
 ## Preprints
+
+- C. **Bu**, L. **Hennecart**.\
+  Mackey formulas for smooth stacks.\
+  37 pp., 2026.
+  ([arXiv](https://arxiv.org/abs/2610.29970))
 
 - C. **Bu**, T. **Pădurariu**, Y. **Toda**.\
   Semiorthogonal decompositions for stacks.\
